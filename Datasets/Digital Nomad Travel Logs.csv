@@ -1,0 +1,2395 @@
+,From City,From Country,To City,To Country,Number of Trips
+0,Lisbon,Portugal,Porto,Portugal,134
+1,Lisbon,Portugal,Madrid,Spain,66
+2,Lisbon,Portugal,London,United Kingdom,57
+3,Lisbon,Portugal,Barcelona,Spain,53
+4,Lisbon,Portugal,Paris,France,43
+5,Lisbon,Portugal,Amsterdam,Netherlands,42
+6,Lisbon,Portugal,Berlin,Germany,36
+7,Lisbon,Portugal,Lagos Algarve,Portugal,24
+8,Lisbon,Portugal,Madeira,Portugal,24
+9,Lisbon,Portugal,Ericeira,Portugal,23
+10,Madeira,Portugal,Lisbon,Portugal,26
+11,Madeira,Portugal,Berlin,Germany,4
+12,Madeira,Portugal,Las Palmas Canary Islands,Spain,3
+13,Madeira,Portugal,Porto,Portugal,3
+14,Madeira,Portugal,London,United Kingdom,2
+15,Madeira,Portugal,Barcelona,Spain,2
+16,Madeira,Portugal,Paris,France,2
+17,Madeira,Portugal,Warsaw,Poland,1
+18,Madeira,Portugal,Corralejo Canary Islands,Spain,1
+19,Madeira,Portugal,Rio De Janeiro,Brazil,1
+20,Porto,Portugal,Lisbon,Portugal,105
+21,Porto,Portugal,London,United Kingdom,34
+22,Porto,Portugal,Barcelona,Spain,25
+23,Porto,Portugal,Madrid,Spain,15
+24,Porto,Portugal,Amsterdam,Netherlands,12
+25,Porto,Portugal,Berlin,Germany,11
+26,Porto,Portugal,Paris,France,10
+27,Porto,Portugal,Krakow,Poland,6
+28,Porto,Portugal,Madeira,Portugal,6
+29,Porto,Portugal,New York City,United States,6
+30,Las Palmas Canary Islands,Spain,Madrid,Spain,17
+31,Las Palmas Canary Islands,Spain,London,United Kingdom,16
+32,Las Palmas Canary Islands,Spain,Tenerife Canary Islands,Spain,14
+33,Las Palmas Canary Islands,Spain,Barcelona,Spain,13
+34,Las Palmas Canary Islands,Spain,Lisbon,Portugal,8
+35,Las Palmas Canary Islands,Spain,Valencia,Spain,5
+36,Las Palmas Canary Islands,Spain,Amsterdam,Netherlands,5
+37,Las Palmas Canary Islands,Spain,Paris,France,4
+38,Las Palmas Canary Islands,Spain,Corralejo Canary Islands,Spain,4
+39,Las Palmas Canary Islands,Spain,Porto,Portugal,3
+40,Ericeira,Portugal,Lisbon,Portugal,12
+41,Ericeira,Portugal,Paris,France,3
+42,Ericeira,Portugal,London,United Kingdom,3
+43,Ericeira,Portugal,Madrid,Spain,2
+44,Ericeira,Portugal,New York City,United States,2
+45,Ericeira,Portugal,Valencia,Spain,1
+46,Ericeira,Portugal,Lagos Algarve,Portugal,1
+47,Ericeira,Portugal,Playa Del Carmen,Mexico,1
+48,Ericeira,Portugal,Barcelona,Spain,1
+49,Ericeira,Portugal,Prague,Czechia,1
+50,Istanbul,Turkey,Tbilisi,Georgia,26
+51,Istanbul,Turkey,Antalya,Turkey,25
+52,Istanbul,Turkey,Dubai,United Arab Emirates,21
+53,Istanbul,Turkey,Bangkok,Thailand,19
+54,Istanbul,Turkey,Moscow,Russia,16
+55,Istanbul,Turkey,Budapest,Hungary,15
+56,Istanbul,Turkey,Paris,France,15
+57,Istanbul,Turkey,Berlin,Germany,13
+58,Istanbul,Turkey,Amsterdam,Netherlands,13
+59,Istanbul,Turkey,Sofia,Bulgaria,12
+60,Berlin,Germany,Prague,Czechia,113
+61,Berlin,Germany,Amsterdam,Netherlands,95
+62,Berlin,Germany,London,United Kingdom,89
+63,Berlin,Germany,Budapest,Hungary,60
+64,Berlin,Germany,Cologne,Germany,56
+65,Berlin,Germany,Stockholm,Sweden,54
+66,Berlin,Germany,Paris,France,52
+67,Berlin,Germany,Barcelona,Spain,51
+68,Berlin,Germany,Munich,Germany,50
+69,Berlin,Germany,Lisbon,Portugal,49
+70,Tenerife Canary Islands,Spain,Barcelona,Spain,12
+71,Tenerife Canary Islands,Spain,Las Palmas Canary Islands,Spain,10
+72,Tenerife Canary Islands,Spain,London,United Kingdom,7
+73,Tenerife Canary Islands,Spain,Madrid,Spain,7
+74,Tenerife Canary Islands,Spain,Berlin,Germany,6
+75,Tenerife Canary Islands,Spain,Paris,France,6
+76,Tenerife Canary Islands,Spain,Lisbon,Portugal,5
+77,Tenerife Canary Islands,Spain,Budapest,Hungary,5
+78,Tenerife Canary Islands,Spain,Canggu Bali,Indonesia,3
+79,Tenerife Canary Islands,Spain,Bansko,Bulgaria,3
+80,Budapest,Hungary,Prague,Czechia,60
+81,Budapest,Hungary,Berlin,Germany,51
+82,Budapest,Hungary,London,United Kingdom,44
+83,Budapest,Hungary,Bratislava,Slovakia,35
+84,Budapest,Hungary,Lisbon,Portugal,32
+85,Budapest,Hungary,Barcelona,Spain,30
+86,Budapest,Hungary,Paris,France,24
+87,Budapest,Hungary,Amsterdam,Netherlands,24
+88,Budapest,Hungary,Belgrade,Serbia,22
+89,Budapest,Hungary,Warsaw,Poland,22
+90,Barcelona,Spain,Paris,France,93
+91,Barcelona,Spain,London,United Kingdom,89
+92,Barcelona,Spain,Madrid,Spain,89
+93,Barcelona,Spain,Lisbon,Portugal,61
+94,Barcelona,Spain,Berlin,Germany,59
+95,Barcelona,Spain,Valencia,Spain,58
+96,Barcelona,Spain,Amsterdam,Netherlands,38
+97,Barcelona,Spain,Budapest,Hungary,30
+98,Barcelona,Spain,New York City,United States,29
+99,Barcelona,Spain,Bangkok,Thailand,25
+100,Prague,Czechia,Berlin,Germany,95
+101,Prague,Czechia,Budapest,Hungary,72
+102,Prague,Czechia,London,United Kingdom,35
+103,Prague,Czechia,Amsterdam,Netherlands,30
+104,Prague,Czechia,Paris,France,26
+105,Prague,Czechia,Barcelona,Spain,24
+106,Prague,Czechia,Krakow,Poland,21
+107,Prague,Czechia,Munich,Germany,20
+108,Prague,Czechia,Warsaw,Poland,17
+109,Prague,Czechia,Bratislava,Slovakia,17
+110,Saint Petersburg,Russia,Moscow,Russia,129
+111,Saint Petersburg,Russia,Tallinn,Estonia,15
+112,Saint Petersburg,Russia,Amsterdam,Netherlands,14
+113,Saint Petersburg,Russia,Dubai,United Arab Emirates,13
+114,Saint Petersburg,Russia,Tbilisi,Georgia,10
+115,Saint Petersburg,Russia,Kyiv,Ukraine,8
+116,Saint Petersburg,Russia,Budapest,Hungary,7
+117,Saint Petersburg,Russia,London,United Kingdom,7
+118,Saint Petersburg,Russia,Istanbul,Turkey,7
+119,Saint Petersburg,Russia,Prague,Czechia,7
+120,Tbilisi,Georgia,Kyiv,Ukraine,21
+121,Tbilisi,Georgia,Istanbul,Turkey,20
+122,Tbilisi,Georgia,Saint Petersburg,Russia,8
+123,Tbilisi,Georgia,Dubai,United Arab Emirates,7
+124,Tbilisi,Georgia,Berlin,Germany,5
+125,Tbilisi,Georgia,Barcelona,Spain,5
+126,Tbilisi,Georgia,Athens,Greece,5
+127,Tbilisi,Georgia,Moscow,Russia,5
+128,Tbilisi,Georgia,Minsk,Belarus,4
+129,Tbilisi,Georgia,Amsterdam,Netherlands,4
+130,Moscow,Russia,Saint Petersburg,Russia,148
+131,Moscow,Russia,Berlin,Germany,39
+132,Moscow,Russia,Minsk,Belarus,37
+133,Moscow,Russia,Barcelona,Spain,24
+134,Moscow,Russia,New York City,United States,20
+135,Moscow,Russia,Istanbul,Turkey,18
+136,Moscow,Russia,Kyiv,Ukraine,18
+137,Moscow,Russia,London,United Kingdom,18
+138,Moscow,Russia,Budapest,Hungary,17
+139,Moscow,Russia,Paris,France,16
+140,Sofia,Bulgaria,Bansko,Bulgaria,24
+141,Sofia,Bulgaria,Istanbul,Turkey,20
+142,Sofia,Bulgaria,Belgrade,Serbia,19
+143,Sofia,Bulgaria,Plovdiv,Bulgaria,18
+144,Sofia,Bulgaria,Bucharest,Romania,14
+145,Sofia,Bulgaria,London,United Kingdom,14
+146,Sofia,Bulgaria,Barcelona,Spain,12
+147,Sofia,Bulgaria,Athens,Greece,11
+148,Sofia,Bulgaria,Budapest,Hungary,8
+149,Sofia,Bulgaria,Paris,France,7
+150,Belgrade,Serbia,Budapest,Hungary,33
+151,Belgrade,Serbia,Sofia,Bulgaria,16
+152,Belgrade,Serbia,Zagreb,Croatia,15
+153,Belgrade,Serbia,Lisbon,Portugal,13
+154,Belgrade,Serbia,Tel Aviv,Israel,11
+155,Belgrade,Serbia,Berlin,Germany,10
+156,Belgrade,Serbia,Amsterdam,Netherlands,9
+157,Belgrade,Serbia,Moscow,Russia,8
+158,Belgrade,Serbia,Istanbul,Turkey,8
+159,Belgrade,Serbia,Athens,Greece,8
+160,Munich,Germany,Berlin,Germany,37
+161,Munich,Germany,Prague,Czechia,25
+162,Munich,Germany,Paris,France,18
+163,Munich,Germany,Lisbon,Portugal,16
+164,Munich,Germany,Barcelona,Spain,15
+165,Munich,Germany,Amsterdam,Netherlands,14
+166,Munich,Germany,Budapest,Hungary,13
+167,Munich,Germany,London,United Kingdom,9
+168,Munich,Germany,Moscow,Russia,7
+169,Munich,Germany,Bangkok,Thailand,7
+170,London,United Kingdom,Paris,France,185
+171,London,United Kingdom,Amsterdam,Netherlands,138
+172,London,United Kingdom,Barcelona,Spain,90
+173,London,United Kingdom,New York City,United States,90
+174,London,United Kingdom,Berlin,Germany,86
+175,London,United Kingdom,Lisbon,Portugal,70
+176,London,United Kingdom,San Francisco,United States,60
+177,London,United Kingdom,Porto,Portugal,40
+178,London,United Kingdom,Bangkok,Thailand,36
+179,London,United Kingdom,Stockholm,Sweden,36
+180,Krakow,Poland,Warsaw,Poland,56
+181,Krakow,Poland,Budapest,Hungary,29
+182,Krakow,Poland,Prague,Czechia,21
+183,Krakow,Poland,Berlin,Germany,17
+184,Krakow,Poland,Wroclaw,Poland,16
+185,Krakow,Poland,Amsterdam,Netherlands,12
+186,Krakow,Poland,Paris,France,11
+187,Krakow,Poland,London,United Kingdom,9
+188,Krakow,Poland,Bratislava,Slovakia,5
+189,Krakow,Poland,Barcelona,Spain,4
+190,Timisoara,Romania,Belgrade,Serbia,9
+191,Timisoara,Romania,Bucharest,Romania,6
+192,Timisoara,Romania,Budapest,Hungary,4
+193,Timisoara,Romania,Brasov,Romania,4
+194,Timisoara,Romania,Cluj,Romania,3
+195,Timisoara,Romania,Barcelona,Spain,2
+196,Timisoara,Romania,Madrid,Spain,1
+197,Timisoara,Romania,Bratislava,Slovakia,1
+198,Timisoara,Romania,Kuala Lumpur,Malaysia,1
+199,Timisoara,Romania,Sofia,Bulgaria,1
+200,Madrid,Spain,Barcelona,Spain,102
+201,Madrid,Spain,Lisbon,Portugal,30
+202,Madrid,Spain,Paris,France,28
+203,Madrid,Spain,Amsterdam,Netherlands,27
+204,Madrid,Spain,London,United Kingdom,27
+205,Madrid,Spain,Porto,Portugal,20
+206,Madrid,Spain,Valencia,Spain,18
+207,Madrid,Spain,Seville,Spain,17
+208,Madrid,Spain,Budapest,Hungary,13
+209,Madrid,Spain,Medellin,Colombia,11
+210,Stockholm,Sweden,Berlin,Germany,56
+211,Stockholm,Sweden,Amsterdam,Netherlands,27
+212,Stockholm,Sweden,London,United Kingdom,22
+213,Stockholm,Sweden,Tallinn,Estonia,19
+214,Stockholm,Sweden,Barcelona,Spain,13
+215,Stockholm,Sweden,Paris,France,13
+216,Stockholm,Sweden,Budapest,Hungary,12
+217,Stockholm,Sweden,Bangkok,Thailand,10
+218,Stockholm,Sweden,Lisbon,Portugal,8
+219,Stockholm,Sweden,Prague,Czechia,7
+220,Athens,Greece,Berlin,Germany,20
+221,Athens,Greece,Barcelona,Spain,20
+222,Athens,Greece,London,United Kingdom,19
+223,Athens,Greece,Budapest,Hungary,17
+224,Athens,Greece,Sofia,Bulgaria,17
+225,Athens,Greece,Istanbul,Turkey,11
+226,Athens,Greece,Lisbon,Portugal,11
+227,Athens,Greece,Dubai,United Arab Emirates,10
+228,Athens,Greece,Madrid,Spain,9
+229,Athens,Greece,Paris,France,8
+230,Amsterdam,Netherlands,Berlin,Germany,110
+231,Amsterdam,Netherlands,Paris,France,108
+232,Amsterdam,Netherlands,London,United Kingdom,95
+233,Amsterdam,Netherlands,New York City,United States,56
+234,Amsterdam,Netherlands,Barcelona,Spain,49
+235,Amsterdam,Netherlands,Lisbon,Portugal,42
+236,Amsterdam,Netherlands,Prague,Czechia,42
+237,Amsterdam,Netherlands,Rotterdam,Netherlands,28
+238,Amsterdam,Netherlands,Bangkok,Thailand,25
+239,Amsterdam,Netherlands,San Francisco,United States,25
+240,Valencia,Spain,Barcelona,Spain,48
+241,Valencia,Spain,Madrid,Spain,26
+242,Valencia,Spain,Paris,France,11
+243,Valencia,Spain,Lisbon,Portugal,11
+244,Valencia,Spain,Seville,Spain,9
+245,Valencia,Spain,Stockholm,Sweden,9
+246,Valencia,Spain,London,United Kingdom,9
+247,Valencia,Spain,Sofia,Bulgaria,7
+248,Valencia,Spain,Prague,Czechia,7
+249,Valencia,Spain,Budapest,Hungary,7
+250,Warsaw,Poland,Krakow,Poland,56
+251,Warsaw,Poland,Berlin,Germany,30
+252,Warsaw,Poland,Wroclaw,Poland,14
+253,Warsaw,Poland,Prague,Czechia,13
+254,Warsaw,Poland,Budapest,Hungary,13
+255,Warsaw,Poland,Vilnius,Lithuania,13
+256,Warsaw,Poland,London,United Kingdom,12
+257,Warsaw,Poland,Kyiv,Ukraine,12
+258,Warsaw,Poland,Paris,France,12
+259,Warsaw,Poland,Barcelona,Spain,11
+260,Vilnius,Lithuania,Riga,Latvia,27
+261,Vilnius,Lithuania,Warsaw,Poland,11
+262,Vilnius,Lithuania,Moscow,Russia,9
+263,Vilnius,Lithuania,Kyiv,Ukraine,9
+264,Vilnius,Lithuania,Amsterdam,Netherlands,8
+265,Vilnius,Lithuania,Minsk,Belarus,7
+266,Vilnius,Lithuania,London,United Kingdom,7
+267,Vilnius,Lithuania,Tallinn,Estonia,7
+268,Vilnius,Lithuania,Stockholm,Sweden,7
+269,Vilnius,Lithuania,Berlin,Germany,6
+270,Bucharest,Romania,London,United Kingdom,24
+271,Bucharest,Romania,Brasov,Romania,14
+272,Bucharest,Romania,Sofia,Bulgaria,13
+273,Bucharest,Romania,Athens,Greece,11
+274,Bucharest,Romania,Berlin,Germany,10
+275,Bucharest,Romania,Timisoara,Romania,9
+276,Bucharest,Romania,Cluj,Romania,8
+277,Bucharest,Romania,Budapest,Hungary,7
+278,Bucharest,Romania,Barcelona,Spain,7
+279,Bucharest,Romania,Belgrade,Serbia,6
+280,Antalya,Turkey,Istanbul,Turkey,20
+281,Antalya,Turkey,Moscow,Russia,9
+282,Antalya,Turkey,Tbilisi,Georgia,6
+283,Antalya,Turkey,Athens,Greece,3
+284,Antalya,Turkey,Vilnius,Lithuania,2
+285,Antalya,Turkey,Wroclaw,Poland,2
+286,Antalya,Turkey,Tirana,Albania,2
+287,Antalya,Turkey,Belgrade,Serbia,2
+288,Antalya,Turkey,Los Angeles,United States,2
+289,Antalya,Turkey,Cairo,Egypt,2
+290,Tallinn,Estonia,Riga,Latvia,48
+291,Tallinn,Estonia,Berlin,Germany,14
+292,Tallinn,Estonia,Stockholm,Sweden,12
+293,Tallinn,Estonia,Saint Petersburg,Russia,10
+294,Tallinn,Estonia,Vilnius,Lithuania,8
+295,Tallinn,Estonia,Barcelona,Spain,6
+296,Tallinn,Estonia,Amsterdam,Netherlands,6
+297,Tallinn,Estonia,Kyiv,Ukraine,5
+298,Tallinn,Estonia,Lisbon,Portugal,5
+299,Tallinn,Estonia,London,United Kingdom,5
+300,Minsk,Belarus,Moscow,Russia,42
+301,Minsk,Belarus,Kyiv,Ukraine,26
+302,Minsk,Belarus,Vilnius,Lithuania,9
+303,Minsk,Belarus,Warsaw,Poland,8
+304,Minsk,Belarus,Amsterdam,Netherlands,7
+305,Minsk,Belarus,Istanbul,Turkey,5
+306,Minsk,Belarus,Munich,Germany,4
+307,Minsk,Belarus,Budapest,Hungary,4
+308,Minsk,Belarus,Tbilisi,Georgia,4
+309,Minsk,Belarus,Tallinn,Estonia,3
+310,Tirana,Albania,Paris,France,6
+311,Tirana,Albania,Istanbul,Turkey,5
+312,Tirana,Albania,Belgrade,Serbia,3
+313,Tirana,Albania,London,United Kingdom,3
+314,Tirana,Albania,Sofia,Bulgaria,2
+315,Tirana,Albania,Athens,Greece,2
+316,Tirana,Albania,Krakow,Poland,2
+317,Tirana,Albania,Zagreb,Croatia,1
+318,Tirana,Albania,Cape Town,South Africa,1
+319,Tirana,Albania,Minsk,Belarus,1
+320,Plovdiv,Bulgaria,Sofia,Bulgaria,8
+321,Plovdiv,Bulgaria,Barcelona,Spain,7
+322,Plovdiv,Bulgaria,London,United Kingdom,5
+323,Plovdiv,Bulgaria,Bucharest,Romania,3
+324,Plovdiv,Bulgaria,Istanbul,Turkey,3
+325,Plovdiv,Bulgaria,Belgrade,Serbia,3
+326,Plovdiv,Bulgaria,Tbilisi,Georgia,2
+327,Plovdiv,Bulgaria,Paris,France,2
+328,Plovdiv,Bulgaria,Bansko,Bulgaria,2
+329,Plovdiv,Bulgaria,Porto,Portugal,1
+330,Wroclaw,Poland,Berlin,Germany,18
+331,Wroclaw,Poland,Warsaw,Poland,16
+332,Wroclaw,Poland,Krakow,Poland,15
+333,Wroclaw,Poland,Prague,Czechia,7
+334,Wroclaw,Poland,London,United Kingdom,6
+335,Wroclaw,Poland,Lisbon,Portugal,3
+336,Wroclaw,Poland,Kyiv,Ukraine,2
+337,Wroclaw,Poland,Antalya,Turkey,2
+338,Wroclaw,Poland,Madrid,Spain,2
+339,Wroclaw,Poland,Barcelona,Spain,2
+340,Brasov,Romania,Bucharest,Romania,15
+341,Brasov,Romania,Amsterdam,Netherlands,4
+342,Brasov,Romania,London,United Kingdom,4
+343,Brasov,Romania,Cluj,Romania,3
+344,Brasov,Romania,Istanbul,Turkey,2
+345,Brasov,Romania,Budapest,Hungary,2
+346,Brasov,Romania,Sofia,Bulgaria,2
+347,Brasov,Romania,Bratislava,Slovakia,1
+348,Brasov,Romania,Tel Aviv,Israel,1
+349,Brasov,Romania,Paris,France,1
+350,Zagreb,Croatia,Belgrade,Serbia,24
+351,Zagreb,Croatia,Budapest,Hungary,15
+352,Zagreb,Croatia,Berlin,Germany,11
+353,Zagreb,Croatia,Lisbon,Portugal,8
+354,Zagreb,Croatia,Bangkok,Thailand,8
+355,Zagreb,Croatia,Istanbul,Turkey,7
+356,Zagreb,Croatia,London,United Kingdom,6
+357,Zagreb,Croatia,Kyiv,Ukraine,4
+358,Zagreb,Croatia,Barcelona,Spain,4
+359,Zagreb,Croatia,Paris,France,4
+360,Paris,France,London,United Kingdom,154
+361,Paris,France,Amsterdam,Netherlands,124
+362,Paris,France,Barcelona,Spain,105
+363,Paris,France,Berlin,Germany,68
+364,Paris,France,Lisbon,Portugal,44
+365,Paris,France,New York City,United States,43
+366,Paris,France,Prague,Czechia,31
+367,Paris,France,Budapest,Hungary,29
+368,Paris,France,San Francisco,United States,25
+369,Paris,France,Moscow,Russia,20
+370,Cluj,Romania,Bucharest,Romania,6
+371,Cluj,Romania,London,United Kingdom,5
+372,Cluj,Romania,Budapest,Hungary,4
+373,Cluj,Romania,Brasov,Romania,3
+374,Cluj,Romania,Berlin,Germany,3
+375,Cluj,Romania,Istanbul,Turkey,2
+376,Cluj,Romania,Timisoara,Romania,2
+377,Cluj,Romania,Barcelona,Spain,2
+378,Cluj,Romania,Bangkok,Thailand,2
+379,Cluj,Romania,Szczecin,Poland,2
+380,Cologne,Germany,Berlin,Germany,61
+381,Cologne,Germany,Amsterdam,Netherlands,14
+382,Cologne,Germany,Paris,France,11
+383,Cologne,Germany,Barcelona,Spain,7
+384,Cologne,Germany,London,United Kingdom,7
+385,Cologne,Germany,Munich,Germany,5
+386,Cologne,Germany,El Gouna,Egypt,5
+387,Cologne,Germany,Budapest,Hungary,4
+388,Cologne,Germany,Kyiv,Ukraine,3
+389,Cologne,Germany,Istanbul,Turkey,3
+390,Seville,Spain,Madrid,Spain,20
+391,Seville,Spain,Barcelona,Spain,19
+392,Seville,Spain,Lisbon,Portugal,12
+393,Seville,Spain,Paris,France,7
+394,Seville,Spain,Tenerife Canary Islands,Spain,5
+395,Seville,Spain,Berlin,Germany,4
+396,Seville,Spain,Marrakesh,Morocco,4
+397,Seville,Spain,London,United Kingdom,4
+398,Seville,Spain,Amsterdam,Netherlands,4
+399,Seville,Spain,Valencia,Spain,3
+400,Corralejo Canary Islands,Spain,Tenerife Canary Islands,Spain,4
+401,Corralejo Canary Islands,Spain,Barcelona,Spain,3
+402,Corralejo Canary Islands,Spain,Vancouver,Canada,1
+403,Corralejo Canary Islands,Spain,Taghazout,Morocco,1
+404,Corralejo Canary Islands,Spain,Berlin,Germany,1
+405,Corralejo Canary Islands,Spain,Athens,Greece,1
+406,Corralejo Canary Islands,Spain,London,United Kingdom,1
+407,Corralejo Canary Islands,Spain,Lagos Algarve,Portugal,1
+408,Corralejo Canary Islands,Spain,Lisbon,Portugal,1
+409,Corralejo Canary Islands,Spain,Prague,Czechia,1
+410,Riga,Latvia,Vilnius,Lithuania,37
+411,Riga,Latvia,Tallinn,Estonia,27
+412,Riga,Latvia,London,United Kingdom,7
+413,Riga,Latvia,Budapest,Hungary,6
+414,Riga,Latvia,Moscow,Russia,6
+415,Riga,Latvia,Stockholm,Sweden,5
+416,Riga,Latvia,Saint Petersburg,Russia,5
+417,Riga,Latvia,Warsaw,Poland,4
+418,Riga,Latvia,Paris,France,3
+419,Riga,Latvia,Prague,Czechia,3
+420,Braga,Portugal,Porto,Portugal,5
+421,Braga,Portugal,Lisbon,Portugal,1
+422,Braga,Portugal,Barcelona,Spain,1
+423,Braga,Portugal,Lagos Algarve,Portugal,1
+424,Braga,Portugal,Amsterdam,Netherlands,1
+425,Kyiv,Ukraine,Berlin,Germany,22
+426,Kyiv,Ukraine,Minsk,Belarus,22
+427,Kyiv,Ukraine,Budapest,Hungary,16
+428,Kyiv,Ukraine,Moscow,Russia,14
+429,Kyiv,Ukraine,London,United Kingdom,14
+430,Kyiv,Ukraine,Warsaw,Poland,13
+431,Kyiv,Ukraine,Istanbul,Turkey,12
+432,Kyiv,Ukraine,Vilnius,Lithuania,10
+433,Kyiv,Ukraine,Tbilisi,Georgia,10
+434,Kyiv,Ukraine,Bangkok,Thailand,9
+435,Bansko,Bulgaria,Sofia,Bulgaria,19
+436,Bansko,Bulgaria,Plovdiv,Bulgaria,7
+437,Bansko,Bulgaria,Istanbul,Turkey,4
+438,Bansko,Bulgaria,Belgrade,Serbia,4
+439,Bansko,Bulgaria,Lisbon,Portugal,4
+440,Bansko,Bulgaria,Berlin,Germany,4
+441,Bansko,Bulgaria,Bangkok,Thailand,3
+442,Bansko,Bulgaria,Prague,Czechia,3
+443,Bansko,Bulgaria,Tirana,Albania,3
+444,Bansko,Bulgaria,Athens,Greece,2
+445,Bratislava,Slovakia,Budapest,Hungary,38
+446,Bratislava,Slovakia,Prague,Czechia,19
+447,Bratislava,Slovakia,Paris,France,5
+448,Bratislava,Slovakia,London,United Kingdom,4
+449,Bratislava,Slovakia,Kyiv,Ukraine,4
+450,Bratislava,Slovakia,Berlin,Germany,4
+451,Bratislava,Slovakia,Munich,Germany,3
+452,Bratislava,Slovakia,Belgrade,Serbia,3
+453,Bratislava,Slovakia,Amsterdam,Netherlands,3
+454,Bratislava,Slovakia,Lisbon,Portugal,2
+455,Portimao Algarve,Portugal,Barcelona,Spain,1
+456,Portimao Algarve,Portugal,Tallinn,Estonia,1
+457,Portimao Algarve,Portugal,Porto,Portugal,1
+458,Portimao Algarve,Portugal,Lisbon,Portugal,1
+459,Portimao Algarve,Portugal,Lagos Algarve,Portugal,1
+460,Portimao Algarve,Portugal,Cape Town,South Africa,1
+461,Portimao Algarve,Portugal,Madrid,Spain,1
+462,Szczecin,Poland,London,United Kingdom,5
+463,Szczecin,Poland,Cluj,Romania,2
+464,Szczecin,Poland,Berlin,Germany,1
+465,Szczecin,Poland,Lisbon,Portugal,1
+466,Szczecin,Poland,Kyiv,Ukraine,1
+467,Rotterdam,Netherlands,Amsterdam,Netherlands,13
+468,Rotterdam,Netherlands,London,United Kingdom,6
+469,Rotterdam,Netherlands,Berlin,Germany,5
+470,Rotterdam,Netherlands,Paris,France,4
+471,Rotterdam,Netherlands,Barcelona,Spain,3
+472,Rotterdam,Netherlands,Munich,Germany,3
+473,Rotterdam,Netherlands,Vilnius,Lithuania,2
+474,Rotterdam,Netherlands,New York City,United States,2
+475,Rotterdam,Netherlands,Cape Town,South Africa,1
+476,Rotterdam,Netherlands,Valencia,Spain,1
+477,Groningen,Netherlands,Singapore,Singapore,4
+478,Groningen,Netherlands,Amsterdam,Netherlands,4
+479,Groningen,Netherlands,Paris,France,3
+480,Groningen,Netherlands,London,United Kingdom,3
+481,Groningen,Netherlands,Barcelona,Spain,2
+482,Groningen,Netherlands,New York City,United States,2
+483,Groningen,Netherlands,Ubud Bali,Indonesia,1
+484,Groningen,Netherlands,Canggu Bali,Indonesia,1
+485,Groningen,Netherlands,Hanoi,Vietnam,1
+486,Groningen,Netherlands,Washington,United States,1
+487,Lagos Algarve,Portugal,Lisbon,Portugal,18
+488,Lagos Algarve,Portugal,Seville,Spain,5
+489,Lagos Algarve,Portugal,London,United Kingdom,3
+490,Lagos Algarve,Portugal,Ericeira,Portugal,3
+491,Lagos Algarve,Portugal,Las Palmas Canary Islands,Spain,2
+492,Lagos Algarve,Portugal,Valencia,Spain,2
+493,Lagos Algarve,Portugal,Porto,Portugal,2
+494,Lagos Algarve,Portugal,Prague,Czechia,1
+495,Lagos Algarve,Portugal,Minsk,Belarus,1
+496,Lagos Algarve,Portugal,Paris,France,1
+497,Canggu Bali,Indonesia,Ubud Bali,Indonesia,107
+498,Canggu Bali,Indonesia,Singapore,Singapore,103
+499,Canggu Bali,Indonesia,Kuala Lumpur,Malaysia,81
+500,Canggu Bali,Indonesia,Bangkok,Thailand,76
+501,Canggu Bali,Indonesia,Chiang Mai,Thailand,56
+502,Canggu Bali,Indonesia,Jakarta,Indonesia,24
+503,Canggu Bali,Indonesia,Tokyo,Japan,20
+504,Canggu Bali,Indonesia,Sydney,Australia,20
+505,Canggu Bali,Indonesia,Melbourne,Australia,18
+506,Canggu Bali,Indonesia,Ho Chi Minh City,Vietnam,18
+507,Singapore,Singapore,Canggu Bali,Indonesia,110
+508,Singapore,Singapore,Kuala Lumpur,Malaysia,109
+509,Singapore,Singapore,Bangkok,Thailand,108
+510,Singapore,Singapore,Ubud Bali,Indonesia,73
+511,Singapore,Singapore,London,United Kingdom,46
+512,Singapore,Singapore,Chiang Mai,Thailand,36
+513,Singapore,Singapore,Ho Chi Minh City,Vietnam,35
+514,Singapore,Singapore,Hong Kong,Hong Kong,35
+515,Singapore,Singapore,Melbourne,Australia,30
+516,Singapore,Singapore,Phuket,Thailand,27
+517,Ko Pha Ngan,Thailand,Bangkok,Thailand,52
+518,Ko Pha Ngan,Thailand,Ko Samui,Thailand,30
+519,Ko Pha Ngan,Thailand,Kuala Lumpur,Malaysia,18
+520,Ko Pha Ngan,Thailand,Chiang Mai,Thailand,18
+521,Ko Pha Ngan,Thailand,Penang,Malaysia,10
+522,Ko Pha Ngan,Thailand,Phuket,Thailand,8
+523,Ko Pha Ngan,Thailand,Singapore,Singapore,8
+524,Ko Pha Ngan,Thailand,Siem Reap,Cambodia,8
+525,Ko Pha Ngan,Thailand,Canggu Bali,Indonesia,6
+526,Ko Pha Ngan,Thailand,Tokyo,Japan,5
+527,Taipei,Taiwan,Bangkok,Thailand,43
+528,Taipei,Taiwan,Tokyo,Japan,35
+529,Taipei,Taiwan,Hong Kong,Hong Kong,32
+530,Taipei,Taiwan,Singapore,Singapore,31
+531,Taipei,Taiwan,San Francisco,United States,20
+532,Taipei,Taiwan,Chiang Mai,Thailand,19
+533,Taipei,Taiwan,Ho Chi Minh City,Vietnam,18
+534,Taipei,Taiwan,Seoul,South Korea,18
+535,Taipei,Taiwan,Kuala Lumpur,Malaysia,16
+536,Taipei,Taiwan,Manila,Philippines,14
+537,Da Nang,Vietnam,Hoi An,Vietnam,37
+538,Da Nang,Vietnam,Ho Chi Minh City,Vietnam,32
+539,Da Nang,Vietnam,Hanoi,Vietnam,30
+540,Da Nang,Vietnam,Chiang Mai,Thailand,20
+541,Da Nang,Vietnam,Bangkok,Thailand,14
+542,Da Nang,Vietnam,Singapore,Singapore,9
+543,Da Nang,Vietnam,Nha Trang,Vietnam,6
+544,Da Nang,Vietnam,Seoul,South Korea,6
+545,Da Nang,Vietnam,Kuala Lumpur,Malaysia,6
+546,Da Nang,Vietnam,Taipei,Taiwan,5
+547,Seoul,South Korea,Tokyo,Japan,47
+548,Seoul,South Korea,Busan,South Korea,34
+549,Seoul,South Korea,Hong Kong,Hong Kong,33
+550,Seoul,South Korea,Bangkok,Thailand,31
+551,Seoul,South Korea,Jeju Island,South Korea,28
+552,Seoul,South Korea,Taipei,Taiwan,18
+553,Seoul,South Korea,San Francisco,United States,17
+554,Seoul,South Korea,Chiang Mai,Thailand,17
+555,Seoul,South Korea,Shanghai,China,15
+556,Seoul,South Korea,London,United Kingdom,14
+557,Penang,Malaysia,Kuala Lumpur,Malaysia,57
+558,Penang,Malaysia,Singapore,Singapore,31
+559,Penang,Malaysia,Bangkok,Thailand,25
+560,Penang,Malaysia,Chiang Mai,Thailand,21
+561,Penang,Malaysia,Phuket,Thailand,12
+562,Penang,Malaysia,Canggu Bali,Indonesia,12
+563,Penang,Malaysia,Ko Pha Ngan,Thailand,11
+564,Penang,Malaysia,Ubud Bali,Indonesia,9
+565,Penang,Malaysia,Kuching,Malaysia,5
+566,Penang,Malaysia,Los Angeles,United States,3
+567,Chiang Mai,Thailand,Bangkok,Thailand,287
+568,Chiang Mai,Thailand,Kuala Lumpur,Malaysia,106
+569,Chiang Mai,Thailand,Ho Chi Minh City,Vietnam,62
+570,Chiang Mai,Thailand,Canggu Bali,Indonesia,62
+571,Chiang Mai,Thailand,Hong Kong,Hong Kong,50
+572,Chiang Mai,Thailand,Singapore,Singapore,45
+573,Chiang Mai,Thailand,Phuket,Thailand,44
+574,Chiang Mai,Thailand,Hanoi,Vietnam,42
+575,Chiang Mai,Thailand,Ubud Bali,Indonesia,37
+576,Chiang Mai,Thailand,Siem Reap,Cambodia,28
+577,Bengaluru,India,Mumbai,India,5
+578,Bengaluru,India,Bangkok,Thailand,2
+579,Bengaluru,India,Dubai,United Arab Emirates,2
+580,Bengaluru,India,Berlin,Germany,2
+581,Bengaluru,India,Mexico City,Mexico,2
+582,Bengaluru,India,Abu Dhabi,United Arab Emirates,2
+583,Bengaluru,India,Mysore,India,2
+584,Bengaluru,India,Canggu Bali,Indonesia,2
+585,Bengaluru,India,Hong Kong,Hong Kong,1
+586,Bengaluru,India,Siem Reap,Cambodia,1
+587,Bangkok,Thailand,Chiang Mai,Thailand,471
+588,Bangkok,Thailand,Phuket,Thailand,123
+589,Bangkok,Thailand,Singapore,Singapore,95
+590,Bangkok,Thailand,Kuala Lumpur,Malaysia,89
+591,Bangkok,Thailand,Ko Samui,Thailand,83
+592,Bangkok,Thailand,Ho Chi Minh City,Vietnam,79
+593,Bangkok,Thailand,Siem Reap,Cambodia,69
+594,Bangkok,Thailand,Hong Kong,Hong Kong,67
+595,Bangkok,Thailand,Canggu Bali,Indonesia,67
+596,Bangkok,Thailand,Ko Pha Ngan,Thailand,61
+597,Jeju Island,South Korea,Seoul,South Korea,27
+598,Jeju Island,South Korea,Chiang Mai,Thailand,4
+599,Jeju Island,South Korea,Busan,South Korea,4
+600,Jeju Island,South Korea,Hong Kong,Hong Kong,3
+601,Jeju Island,South Korea,Tokyo,Japan,3
+602,Jeju Island,South Korea,Amsterdam,Netherlands,3
+603,Jeju Island,South Korea,Singapore,Singapore,2
+604,Jeju Island,South Korea,Bangkok,Thailand,1
+605,Jeju Island,South Korea,Christchurch,New Zealand,1
+606,Jeju Island,South Korea,Shanghai,China,1
+607,Phuket,Thailand,Bangkok,Thailand,93
+608,Phuket,Thailand,Chiang Mai,Thailand,44
+609,Phuket,Thailand,Singapore,Singapore,33
+610,Phuket,Thailand,Kuala Lumpur,Malaysia,28
+611,Phuket,Thailand,Ho Chi Minh City,Vietnam,15
+612,Phuket,Thailand,Ko Pha Ngan,Thailand,15
+613,Phuket,Thailand,Hong Kong,Hong Kong,13
+614,Phuket,Thailand,Ko Samui,Thailand,13
+615,Phuket,Thailand,Krabi,Thailand,12
+616,Phuket,Thailand,Siem Reap,Cambodia,12
+617,Munggu Bali,Indonesia,Bangkok,Thailand,2
+618,Manila,Philippines,Singapore,Singapore,25
+619,Manila,Philippines,Cebu,Philippines,25
+620,Manila,Philippines,Bangkok,Thailand,20
+621,Manila,Philippines,Taipei,Taiwan,19
+622,Manila,Philippines,Hong Kong,Hong Kong,14
+623,Manila,Philippines,Chiang Mai,Thailand,12
+624,Manila,Philippines,Kuala Lumpur,Malaysia,10
+625,Manila,Philippines,Tokyo,Japan,9
+626,Manila,Philippines,Canggu Bali,Indonesia,9
+627,Manila,Philippines,Los Angeles,United States,8
+628,Ubud Bali,Indonesia,Canggu Bali,Indonesia,111
+629,Ubud Bali,Indonesia,Singapore,Singapore,72
+630,Ubud Bali,Indonesia,Kuala Lumpur,Malaysia,48
+631,Ubud Bali,Indonesia,Bangkok,Thailand,38
+632,Ubud Bali,Indonesia,Chiang Mai,Thailand,36
+633,Ubud Bali,Indonesia,Seminyak Bali,Indonesia,22
+634,Ubud Bali,Indonesia,Melbourne,Australia,13
+635,Ubud Bali,Indonesia,London,United Kingdom,13
+636,Ubud Bali,Indonesia,Perth,Australia,12
+637,Ubud Bali,Indonesia,Sydney,Australia,12
+638,Seminyak Bali,Indonesia,Ubud Bali,Indonesia,23
+639,Seminyak Bali,Indonesia,Singapore,Singapore,13
+640,Seminyak Bali,Indonesia,Kuala Lumpur,Malaysia,12
+641,Seminyak Bali,Indonesia,Canggu Bali,Indonesia,9
+642,Seminyak Bali,Indonesia,Bangkok,Thailand,8
+643,Seminyak Bali,Indonesia,Chiang Mai,Thailand,5
+644,Seminyak Bali,Indonesia,Melbourne,Australia,5
+645,Seminyak Bali,Indonesia,Perth,Australia,4
+646,Seminyak Bali,Indonesia,Sydney,Australia,4
+647,Seminyak Bali,Indonesia,Sanur Bali,Indonesia,3
+648,Kuala Lumpur,Malaysia,Singapore,Singapore,114
+649,Kuala Lumpur,Malaysia,Bangkok,Thailand,86
+650,Kuala Lumpur,Malaysia,Canggu Bali,Indonesia,85
+651,Kuala Lumpur,Malaysia,Chiang Mai,Thailand,79
+652,Kuala Lumpur,Malaysia,Penang,Malaysia,71
+653,Kuala Lumpur,Malaysia,Ubud Bali,Indonesia,45
+654,Kuala Lumpur,Malaysia,Ho Chi Minh City,Vietnam,27
+655,Kuala Lumpur,Malaysia,Phuket,Thailand,24
+656,Kuala Lumpur,Malaysia,Jakarta,Indonesia,16
+657,Kuala Lumpur,Malaysia,Taipei,Taiwan,16
+658,Ko Samui,Thailand,Bangkok,Thailand,57
+659,Ko Samui,Thailand,Ko Pha Ngan,Thailand,47
+660,Ko Samui,Thailand,Chiang Mai,Thailand,22
+661,Ko Samui,Thailand,Phuket,Thailand,10
+662,Ko Samui,Thailand,Kuala Lumpur,Malaysia,10
+663,Ko Samui,Thailand,Singapore,Singapore,9
+664,Ko Samui,Thailand,Hong Kong,Hong Kong,7
+665,Ko Samui,Thailand,Krabi,Thailand,6
+666,Ko Samui,Thailand,Penang,Malaysia,5
+667,Ko Samui,Thailand,Ho Chi Minh City,Vietnam,4
+668,Jakarta,Indonesia,Canggu Bali,Indonesia,35
+669,Jakarta,Indonesia,Singapore,Singapore,15
+670,Jakarta,Indonesia,Bangkok,Thailand,15
+671,Jakarta,Indonesia,Ubud Bali,Indonesia,13
+672,Jakarta,Indonesia,Ho Chi Minh City,Vietnam,9
+673,Jakarta,Indonesia,Kuala Lumpur,Malaysia,9
+674,Jakarta,Indonesia,Melbourne,Australia,5
+675,Jakarta,Indonesia,Seminyak Bali,Indonesia,5
+676,Jakarta,Indonesia,Phuket,Thailand,4
+677,Jakarta,Indonesia,Manila,Philippines,3
+678,Tokyo,Japan,Seoul,South Korea,60
+679,Tokyo,Japan,Bangkok,Thailand,55
+680,Tokyo,Japan,Taipei,Taiwan,39
+681,Tokyo,Japan,Hong Kong,Hong Kong,28
+682,Tokyo,Japan,Singapore,Singapore,25
+683,Tokyo,Japan,Los Angeles,United States,25
+684,Tokyo,Japan,New York City,United States,20
+685,Tokyo,Japan,San Francisco,United States,18
+686,Tokyo,Japan,Paris,France,17
+687,Tokyo,Japan,London,United Kingdom,16
+688,Davao,Philippines,Singapore,Singapore,1
+689,Davao,Philippines,Da Nang,Vietnam,1
+690,Davao,Philippines,Palawan,Philippines,1
+691,Davao,Philippines,Ottawa,Canada,1
+692,Davao,Philippines,Amsterdam,Netherlands,1
+693,Davao,Philippines,Los Angeles,United States,1
+694,Yangon,Myanmar,Bangkok,Thailand,15
+695,Yangon,Myanmar,Chiang Mai,Thailand,8
+696,Yangon,Myanmar,Singapore,Singapore,5
+697,Yangon,Myanmar,Taipei,Taiwan,3
+698,Yangon,Myanmar,Kuala Lumpur,Malaysia,3
+699,Yangon,Myanmar,Canggu Bali,Indonesia,2
+700,Yangon,Myanmar,Ko Pha Ngan,Thailand,2
+701,Yangon,Myanmar,Phuket,Thailand,2
+702,Yangon,Myanmar,Ubud Bali,Indonesia,1
+703,Yangon,Myanmar,Ho Chi Minh City,Vietnam,1
+704,Cebu,Philippines,Makati,Philippines,11
+705,Cebu,Philippines,Manila,Philippines,10
+706,Cebu,Philippines,Singapore,Singapore,9
+707,Cebu,Philippines,Canggu Bali,Indonesia,7
+708,Cebu,Philippines,Kuala Lumpur,Malaysia,6
+709,Cebu,Philippines,Hong Kong,Hong Kong,6
+710,Cebu,Philippines,Bangkok,Thailand,5
+711,Cebu,Philippines,Taipei,Taiwan,4
+712,Cebu,Philippines,Tokyo,Japan,4
+713,Cebu,Philippines,Hanoi,Vietnam,4
+714,Shanghai,China,Hong Kong,Hong Kong,20
+715,Shanghai,China,Singapore,Singapore,14
+716,Shanghai,China,Seoul,South Korea,12
+717,Shanghai,China,Bangkok,Thailand,11
+718,Shanghai,China,Tokyo,Japan,11
+719,Shanghai,China,Chiang Mai,Thailand,11
+720,Shanghai,China,Sydney,Australia,7
+721,Shanghai,China,Kuala Lumpur,Malaysia,7
+722,Shanghai,China,Taipei,Taiwan,6
+723,Shanghai,China,New York City,United States,6
+724,Luang Prabang,Laos,Chiang Mai,Thailand,14
+725,Luang Prabang,Laos,Hanoi,Vietnam,8
+726,Luang Prabang,Laos,Bangkok,Thailand,6
+727,Luang Prabang,Laos,Ho Chi Minh City,Vietnam,4
+728,Luang Prabang,Laos,Kuala Lumpur,Malaysia,4
+729,Luang Prabang,Laos,Singapore,Singapore,3
+730,Luang Prabang,Laos,Ubud Bali,Indonesia,2
+731,Luang Prabang,Laos,Penang,Malaysia,2
+732,Luang Prabang,Laos,Phuket,Thailand,1
+733,Luang Prabang,Laos,Istanbul,Turkey,1
+734,Busan,South Korea,Seoul,South Korea,24
+735,Busan,South Korea,Tokyo,Japan,9
+736,Busan,South Korea,Taipei,Taiwan,7
+737,Busan,South Korea,Bangkok,Thailand,3
+738,Busan,South Korea,Hong Kong,Hong Kong,2
+739,Busan,South Korea,Paris,France,2
+740,Busan,South Korea,Kuala Lumpur,Malaysia,1
+741,Busan,South Korea,Jeju Island,South Korea,1
+742,Busan,South Korea,Manila,Philippines,1
+743,Busan,South Korea,Vancouver,Canada,1
+744,Palawan,Philippines,Manila,Philippines,4
+745,Palawan,Philippines,Seoul,South Korea,3
+746,Palawan,Philippines,Bangkok,Thailand,2
+747,Palawan,Philippines,Cebu,Philippines,2
+748,Palawan,Philippines,Cape Town,South Africa,1
+749,Palawan,Philippines,Sydney,Australia,1
+750,Palawan,Philippines,Ubud Bali,Indonesia,1
+751,Palawan,Philippines,Tehran,Iran,1
+752,Palawan,Philippines,Taipei,Taiwan,1
+753,Palawan,Philippines,Chicago,United States,1
+754,Senggigi Lombok,Indonesia,Kuala Lumpur,Malaysia,1
+755,Senggigi Lombok,Indonesia,Canggu Bali,Indonesia,1
+756,Senggigi Lombok,Indonesia,Marrakesh,Morocco,1
+757,Hoi An,Vietnam,Da Nang,Vietnam,37
+758,Hoi An,Vietnam,Hanoi,Vietnam,32
+759,Hoi An,Vietnam,Ho Chi Minh City,Vietnam,26
+760,Hoi An,Vietnam,Bangkok,Thailand,7
+761,Hoi An,Vietnam,Nha Trang,Vietnam,5
+762,Hoi An,Vietnam,Canggu Bali,Indonesia,4
+763,Hoi An,Vietnam,Chiang Mai,Thailand,3
+764,Hoi An,Vietnam,Singapore,Singapore,3
+765,Hoi An,Vietnam,Kuala Lumpur,Malaysia,3
+766,Hoi An,Vietnam,London,United Kingdom,3
+767,Makati,Philippines,Cebu,Philippines,9
+768,Makati,Philippines,Hong Kong,Hong Kong,3
+769,Makati,Philippines,Bangkok,Thailand,2
+770,Makati,Philippines,Singapore,Singapore,2
+771,Makati,Philippines,Taipei,Taiwan,2
+772,Makati,Philippines,Seoul,South Korea,1
+773,Makati,Philippines,New Orleans,United States,1
+774,Makati,Philippines,Zagreb,Croatia,1
+775,Makati,Philippines,Kaohsiung,Taiwan,1
+776,Makati,Philippines,Istanbul,Turkey,1
+777,Almaty,Kazakhstan,Paris,France,6
+778,Almaty,Kazakhstan,Budapest,Hungary,4
+779,Almaty,Kazakhstan,Moscow,Russia,3
+780,Almaty,Kazakhstan,Saint Petersburg,Russia,3
+781,Almaty,Kazakhstan,Istanbul,Turkey,3
+782,Almaty,Kazakhstan,Shanghai,China,2
+783,Almaty,Kazakhstan,Bangkok,Thailand,2
+784,Almaty,Kazakhstan,Seattle,United States,1
+785,Almaty,Kazakhstan,Ho Chi Minh City,Vietnam,1
+786,Almaty,Kazakhstan,Seoul,South Korea,1
+787,Kota Kinabalu,Malaysia,Singapore,Singapore,8
+788,Kota Kinabalu,Malaysia,Kuala Lumpur,Malaysia,4
+789,Kota Kinabalu,Malaysia,Ubud Bali,Indonesia,4
+790,Kota Kinabalu,Malaysia,Kuching,Malaysia,3
+791,Kota Kinabalu,Malaysia,Shanghai,China,1
+792,Kota Kinabalu,Malaysia,Penang,Malaysia,1
+793,Kota Kinabalu,Malaysia,Canggu Bali,Indonesia,1
+794,Kota Kinabalu,Malaysia,Hanoi,Vietnam,1
+795,Kota Kinabalu,Malaysia,Tokyo,Japan,1
+796,Kota Kinabalu,Malaysia,Hong Kong,Hong Kong,1
+797,Hanoi,Vietnam,Ho Chi Minh City,Vietnam,54
+798,Hanoi,Vietnam,Bangkok,Thailand,40
+799,Hanoi,Vietnam,Chiang Mai,Thailand,38
+800,Hanoi,Vietnam,Da Nang,Vietnam,33
+801,Hanoi,Vietnam,Hoi An,Vietnam,30
+802,Hanoi,Vietnam,Siem Reap,Cambodia,15
+803,Hanoi,Vietnam,Hong Kong,Hong Kong,14
+804,Hanoi,Vietnam,Taipei,Taiwan,12
+805,Hanoi,Vietnam,Singapore,Singapore,9
+806,Hanoi,Vietnam,Canggu Bali,Indonesia,8
+807,Krabi,Thailand,Bangkok,Thailand,23
+808,Krabi,Thailand,Chiang Mai,Thailand,20
+809,Krabi,Thailand,Phuket,Thailand,13
+810,Krabi,Thailand,Kuala Lumpur,Malaysia,7
+811,Krabi,Thailand,Ho Chi Minh City,Vietnam,6
+812,Krabi,Thailand,Singapore,Singapore,6
+813,Krabi,Thailand,Ko Pha Ngan,Thailand,5
+814,Krabi,Thailand,Ko Samui,Thailand,3
+815,Krabi,Thailand,Canggu Bali,Indonesia,2
+816,Krabi,Thailand,Hong Kong,Hong Kong,2
+817,Sanur Bali,Indonesia,Ubud Bali,Indonesia,4
+818,Sanur Bali,Indonesia,Canggu Bali,Indonesia,2
+819,Sanur Bali,Indonesia,Rotterdam,Netherlands,2
+820,Sanur Bali,Indonesia,Bangkok,Thailand,2
+821,Sanur Bali,Indonesia,Perth,Australia,2
+822,Sanur Bali,Indonesia,Seminyak Bali,Indonesia,1
+823,Sanur Bali,Indonesia,Sydney,Australia,1
+824,Sanur Bali,Indonesia,Amsterdam,Netherlands,1
+825,Sanur Bali,Indonesia,Berlin,Germany,1
+826,Sanur Bali,Indonesia,Sofia,Bulgaria,1
+827,Ho Chi Minh City,Vietnam,Bangkok,Thailand,57
+828,Ho Chi Minh City,Vietnam,Hanoi,Vietnam,55
+829,Ho Chi Minh City,Vietnam,Kuala Lumpur,Malaysia,41
+830,Ho Chi Minh City,Vietnam,Chiang Mai,Thailand,40
+831,Ho Chi Minh City,Vietnam,Nha Trang,Vietnam,37
+832,Ho Chi Minh City,Vietnam,Da Nang,Vietnam,31
+833,Ho Chi Minh City,Vietnam,Singapore,Singapore,30
+834,Ho Chi Minh City,Vietnam,Hoi An,Vietnam,28
+835,Ho Chi Minh City,Vietnam,Hong Kong,Hong Kong,25
+836,Ho Chi Minh City,Vietnam,Taipei,Taiwan,24
+837,Mumbai,India,Bangkok,Thailand,8
+838,Mumbai,India,Dubai,United Arab Emirates,6
+839,Mumbai,India,London,United Kingdom,5
+840,Mumbai,India,Kuala Lumpur,Malaysia,5
+841,Mumbai,India,Bengaluru,India,3
+842,Mumbai,India,New York City,United States,3
+843,Mumbai,India,Berlin,Germany,3
+844,Mumbai,India,Singapore,Singapore,2
+845,Mumbai,India,San Francisco,United States,2
+846,Mumbai,India,Amsterdam,Netherlands,2
+847,General Santos,Philippines,Singapore,Singapore,1
+848,Hong Kong,Hong Kong,Bangkok,Thailand,64
+849,Hong Kong,Hong Kong,Chiang Mai,Thailand,50
+850,Hong Kong,Hong Kong,Tokyo,Japan,39
+851,Hong Kong,Hong Kong,Taipei,Taiwan,33
+852,Hong Kong,Hong Kong,Singapore,Singapore,30
+853,Hong Kong,Hong Kong,Shanghai,China,26
+854,Hong Kong,Hong Kong,Seoul,South Korea,25
+855,Hong Kong,Hong Kong,Ho Chi Minh City,Vietnam,22
+856,Hong Kong,Hong Kong,Hanoi,Vietnam,20
+857,Hong Kong,Hong Kong,London,United Kingdom,18
+858,Baguio,Philippines,Manila,Philippines,2
+859,Baguio,Philippines,Bangkok,Thailand,1
+860,Baguio,Philippines,Cebu,Philippines,1
+861,Baguio,Philippines,Singapore,Singapore,1
+862,Baguio,Philippines,Tokyo,Japan,1
+863,Haikou,China,Jakarta,Indonesia,1
+864,La Union,Philippines,Manila,Philippines,2
+865,Kuching,Malaysia,Kuala Lumpur,Malaysia,8
+866,Kuching,Malaysia,Singapore,Singapore,4
+867,Kuching,Malaysia,Kota Kinabalu,Malaysia,4
+868,Kuching,Malaysia,Ubud Bali,Indonesia,3
+869,Kuching,Malaysia,London,United Kingdom,3
+870,Kuching,Malaysia,Bangkok,Thailand,2
+871,Kuching,Malaysia,Penang,Malaysia,2
+872,Kuching,Malaysia,Chiang Mai,Thailand,1
+873,Kuching,Malaysia,Senggigi Lombok,Indonesia,1
+874,Kuching,Malaysia,Toronto,Canada,1
+875,Kaohsiung,Taiwan,Taipei,Taiwan,10
+876,Kaohsiung,Taiwan,Ho Chi Minh City,Vietnam,2
+877,Kaohsiung,Taiwan,Chiang Mai,Thailand,2
+878,Kaohsiung,Taiwan,Bangkok,Thailand,1
+879,Kaohsiung,Taiwan,Canggu Bali,Indonesia,1
+880,Kaohsiung,Taiwan,Mexico City,Mexico,1
+881,Kaohsiung,Taiwan,Hong Kong,Hong Kong,1
+882,Kaohsiung,Taiwan,Porto,Portugal,1
+883,Kaohsiung,Taiwan,Oaxaca,Mexico,1
+884,Kaohsiung,Taiwan,Manila,Philippines,1
+885,Nha Trang,Vietnam,Ho Chi Minh City,Vietnam,21
+886,Nha Trang,Vietnam,Hoi An,Vietnam,17
+887,Nha Trang,Vietnam,Da Nang,Vietnam,9
+888,Nha Trang,Vietnam,Kuala Lumpur,Malaysia,6
+889,Nha Trang,Vietnam,Hanoi,Vietnam,5
+890,Nha Trang,Vietnam,Bangkok,Thailand,3
+891,Nha Trang,Vietnam,Hong Kong,Hong Kong,2
+892,Nha Trang,Vietnam,Chiang Mai,Thailand,1
+893,Nha Trang,Vietnam,London,United Kingdom,1
+894,Nha Trang,Vietnam,Kota Kinabalu,Malaysia,1
+895,Mysore,India,Singapore,Singapore,1
+896,Mysore,India,Mumbai,India,1
+897,Mysore,India,Ubud Bali,Indonesia,1
+898,Mysore,India,Canggu Bali,Indonesia,1
+899,Mysore,India,Paris,France,1
+900,Uluwatu Bali,Indonesia,Canggu Bali,Indonesia,11
+901,Uluwatu Bali,Indonesia,Singapore,Singapore,4
+902,Uluwatu Bali,Indonesia,Ubud Bali,Indonesia,2
+903,Uluwatu Bali,Indonesia,Seminyak Bali,Indonesia,2
+904,Uluwatu Bali,Indonesia,Dubai,United Arab Emirates,1
+905,Uluwatu Bali,Indonesia,Byron Bay,Australia,1
+906,Uluwatu Bali,Indonesia,Hanoi,Vietnam,1
+907,Uluwatu Bali,Indonesia,Moscow,Russia,1
+908,Uluwatu Bali,Indonesia,Wellington,New Zealand,1
+909,Uluwatu Bali,Indonesia,Perth,Australia,1
+910,Siem Reap,Cambodia,Bangkok,Thailand,45
+911,Siem Reap,Cambodia,Chiang Mai,Thailand,31
+912,Siem Reap,Cambodia,Ho Chi Minh City,Vietnam,24
+913,Siem Reap,Cambodia,Hanoi,Vietnam,12
+914,Siem Reap,Cambodia,Kuala Lumpur,Malaysia,10
+915,Siem Reap,Cambodia,Singapore,Singapore,9
+916,Siem Reap,Cambodia,Phuket,Thailand,9
+917,Siem Reap,Cambodia,Luang Prabang,Laos,5
+918,Siem Reap,Cambodia,Tokyo,Japan,3
+919,Siem Reap,Cambodia,Hong Kong,Hong Kong,3
+920,Miami,United States,New York City,United States,44
+921,Miami,United States,Los Angeles,United States,21
+922,Miami,United States,San Francisco,United States,21
+923,Miami,United States,Orlando,United States,21
+924,Miami,United States,London,United Kingdom,18
+925,Miami,United States,Medellin,Colombia,16
+926,Miami,United States,Mexico City,Mexico,16
+927,Miami,United States,New Orleans,United States,9
+928,Miami,United States,Barcelona,Spain,9
+929,Miami,United States,Boston,United States,9
+930,Austin,United States,San Francisco,United States,33
+931,Austin,United States,Dallas,United States,29
+932,Austin,United States,New York City,United States,27
+933,Austin,United States,Los Angeles,United States,19
+934,Austin,United States,Mexico City,Mexico,16
+935,Austin,United States,San Diego,United States,14
+936,Austin,United States,San Antonio,United States,13
+937,Austin,United States,Chicago,United States,13
+938,Austin,United States,London,United Kingdom,13
+939,Austin,United States,Portland,United States,11
+940,Toronto,Canada,Montreal,Canada,50
+941,Toronto,Canada,New York City,United States,30
+942,Toronto,Canada,Vancouver,Canada,30
+943,Toronto,Canada,Ottawa,Canada,18
+944,Toronto,Canada,London,United Kingdom,18
+945,Toronto,Canada,Los Angeles,United States,12
+946,Toronto,Canada,Calgary,Canada,10
+947,Toronto,Canada,Amsterdam,Netherlands,10
+948,Toronto,Canada,Chicago,United States,10
+949,Toronto,Canada,San Francisco,United States,9
+950,Atlanta,United States,Los Angeles,United States,10
+951,Atlanta,United States,New York City,United States,10
+952,Atlanta,United States,Miami,United States,9
+953,Atlanta,United States,Boston,United States,8
+954,Atlanta,United States,Seattle,United States,7
+955,Atlanta,United States,Denver,United States,5
+956,Atlanta,United States,San Francisco,United States,5
+957,Atlanta,United States,Mexico City,Mexico,5
+958,Atlanta,United States,Playa Del Carmen,Mexico,5
+959,Atlanta,United States,Lisbon,Portugal,4
+960,Vancouver,Canada,Seattle,United States,59
+961,Vancouver,Canada,Toronto,Canada,42
+962,Vancouver,Canada,San Francisco,United States,36
+963,Vancouver,Canada,New York City,United States,26
+964,Vancouver,Canada,Calgary,Canada,15
+965,Vancouver,Canada,Victoria,Canada,15
+966,Vancouver,Canada,Los Angeles,United States,14
+967,Vancouver,Canada,London,United Kingdom,13
+968,Vancouver,Canada,Montreal,Canada,12
+969,Vancouver,Canada,Portland,United States,12
+970,Los Angeles,United States,San Francisco,United States,145
+971,Los Angeles,United States,New York City,United States,97
+972,Los Angeles,United States,Las Vegas,United States,73
+973,Los Angeles,United States,San Diego,United States,67
+974,Los Angeles,United States,Chicago,United States,38
+975,Los Angeles,United States,Seattle,United States,35
+976,Los Angeles,United States,London,United Kingdom,34
+977,Los Angeles,United States,Vancouver,Canada,21
+978,Los Angeles,United States,Mexico City,Mexico,19
+979,Los Angeles,United States,Tokyo,Japan,19
+980,Seattle,United States,San Francisco,United States,49
+981,Seattle,United States,Portland,United States,48
+982,Seattle,United States,Vancouver,Canada,42
+983,Seattle,United States,New York City,United States,36
+984,Seattle,United States,Los Angeles,United States,35
+985,Seattle,United States,San Diego,United States,24
+986,Seattle,United States,Austin,United States,21
+987,Seattle,United States,Chicago,United States,18
+988,Seattle,United States,Denver,United States,16
+989,Seattle,United States,London,United Kingdom,12
+990,Denver,United States,New York City,United States,18
+991,Denver,United States,San Francisco,United States,17
+992,Denver,United States,Seattle,United States,13
+993,Denver,United States,Austin,United States,12
+994,Denver,United States,Salt Lake City,United States,10
+995,Denver,United States,Chicago,United States,10
+996,Denver,United States,Los Angeles,United States,9
+997,Denver,United States,Mexico City,Mexico,8
+998,Denver,United States,New Orleans,United States,6
+999,Denver,United States,Playa Del Carmen,Mexico,6
+1000,Chicago,United States,New York City,United States,48
+1001,Chicago,United States,Los Angeles,United States,36
+1002,Chicago,United States,San Francisco,United States,30
+1003,Chicago,United States,Austin,United States,20
+1004,Chicago,United States,Boston,United States,20
+1005,Chicago,United States,Seattle,United States,20
+1006,Chicago,United States,Las Vegas,United States,16
+1007,Chicago,United States,Washington,United States,13
+1008,Chicago,United States,Bangkok,Thailand,13
+1009,Chicago,United States,London,United Kingdom,12
+1010,Dallas,United States,Austin,United States,29
+1011,Dallas,United States,New Orleans,United States,14
+1012,Dallas,United States,New York City,United States,10
+1013,Dallas,United States,Los Angeles,United States,9
+1014,Dallas,United States,San Francisco,United States,8
+1015,Dallas,United States,Las Vegas,United States,6
+1016,Dallas,United States,Nashville,United States,5
+1017,Dallas,United States,Tokyo,Japan,5
+1018,Dallas,United States,Chicago,United States,4
+1019,Dallas,United States,Atlanta,United States,4
+1020,Pittsburgh,United States,Washington,United States,4
+1021,Pittsburgh,United States,Los Angeles,United States,2
+1022,Pittsburgh,United States,Boston,United States,2
+1023,Pittsburgh,United States,Krakow,Poland,1
+1024,Pittsburgh,United States,New York City,United States,1
+1025,Pittsburgh,United States,Athens,Greece,1
+1026,Pittsburgh,United States,Prague,Czechia,1
+1027,Pittsburgh,United States,San Francisco,United States,1
+1028,Pittsburgh,United States,Mexico City,Mexico,1
+1029,Pittsburgh,United States,Vancouver,Canada,1
+1030,Montreal,Canada,Toronto,Canada,38
+1031,Montreal,Canada,New York City,United States,32
+1032,Montreal,Canada,Paris,France,24
+1033,Montreal,Canada,Vancouver,Canada,21
+1034,Montreal,Canada,San Francisco,United States,11
+1035,Montreal,Canada,Boston,United States,11
+1036,Montreal,Canada,Lisbon,Portugal,10
+1037,Montreal,Canada,Ottawa,Canada,9
+1038,Montreal,Canada,London,United Kingdom,9
+1039,Montreal,Canada,Fortaleza,Brazil,7
+1040,Las Vegas,United States,Los Angeles,United States,64
+1041,Las Vegas,United States,San Francisco,United States,57
+1042,Las Vegas,United States,New York City,United States,22
+1043,Las Vegas,United States,San Diego,United States,18
+1044,Las Vegas,United States,Chicago,United States,14
+1045,Las Vegas,United States,Mexico City,Mexico,11
+1046,Las Vegas,United States,Seattle,United States,11
+1047,Las Vegas,United States,Boston,United States,8
+1048,Las Vegas,United States,London,United Kingdom,8
+1049,Las Vegas,United States,Denver,United States,8
+1050,San Francisco,United States,Los Angeles,United States,148
+1051,San Francisco,United States,New York City,United States,141
+1052,San Francisco,United States,London,United Kingdom,65
+1053,San Francisco,United States,Las Vegas,United States,57
+1054,San Francisco,United States,Seattle,United States,52
+1055,San Francisco,United States,San Diego,United States,48
+1056,San Francisco,United States,Portland,United States,45
+1057,San Francisco,United States,Mexico City,Mexico,34
+1058,San Francisco,United States,Vancouver,Canada,31
+1059,San Francisco,United States,Boston,United States,26
+1060,Portland,United States,Seattle,United States,57
+1061,Portland,United States,San Francisco,United States,37
+1062,Portland,United States,New York City,United States,21
+1063,Portland,United States,Vancouver,Canada,17
+1064,Portland,United States,Los Angeles,United States,15
+1065,Portland,United States,Austin,United States,12
+1066,Portland,United States,Chicago,United States,8
+1067,Portland,United States,Las Vegas,United States,7
+1068,Portland,United States,New Orleans,United States,6
+1069,Portland,United States,London,United Kingdom,5
+1070,Boston,United States,New York City,United States,93
+1071,Boston,United States,San Francisco,United States,30
+1072,Boston,United States,Washington,United States,25
+1073,Boston,United States,London,United Kingdom,21
+1074,Boston,United States,Chicago,United States,20
+1075,Boston,United States,Los Angeles,United States,16
+1076,Boston,United States,Montreal,Canada,15
+1077,Boston,United States,Paris,France,10
+1078,Boston,United States,Austin,United States,10
+1079,Boston,United States,Las Vegas,United States,10
+1080,New Orleans,United States,Dallas,United States,15
+1081,New Orleans,United States,Austin,United States,15
+1082,New Orleans,United States,New York City,United States,13
+1083,New Orleans,United States,Chicago,United States,10
+1084,New Orleans,United States,San Francisco,United States,6
+1085,New Orleans,United States,Atlanta,United States,5
+1086,New Orleans,United States,Denver,United States,4
+1087,New Orleans,United States,Miami,United States,4
+1088,New Orleans,United States,Boston,United States,4
+1089,New Orleans,United States,Salt Lake City,United States,3
+1090,Tampa,United States,Orlando,United States,7
+1091,Tampa,United States,New Orleans,United States,5
+1092,Tampa,United States,New York City,United States,4
+1093,Tampa,United States,Miami,United States,4
+1094,Tampa,United States,Boston,United States,3
+1095,Tampa,United States,London,United Kingdom,3
+1096,Tampa,United States,Austin,United States,3
+1097,Tampa,United States,Toronto,Canada,2
+1098,Tampa,United States,Ottawa,Canada,2
+1099,Tampa,United States,San Francisco,United States,2
+1100,Tucson,United States,San Diego,United States,4
+1101,Tucson,United States,Phoenix,United States,4
+1102,Tucson,United States,Seattle,United States,3
+1103,Tucson,United States,Boston,United States,2
+1104,Tucson,United States,Mexico City,Mexico,2
+1105,Tucson,United States,Portland,United States,2
+1106,Tucson,United States,Minneapolis,United States,1
+1107,Tucson,United States,New Orleans,United States,1
+1108,Tucson,United States,New York City,United States,1
+1109,Tucson,United States,Los Angeles,United States,1
+1110,New York City,United States,San Francisco,United States,130
+1111,New York City,United States,London,United Kingdom,107
+1112,New York City,United States,Boston,United States,95
+1113,New York City,United States,Los Angeles,United States,75
+1114,New York City,United States,Washington,United States,74
+1115,New York City,United States,Miami,United States,55
+1116,New York City,United States,Chicago,United States,44
+1117,New York City,United States,Mexico City,Mexico,43
+1118,New York City,United States,Paris,France,40
+1119,New York City,United States,Berlin,Germany,35
+1120,Orlando,United States,Miami,United States,28
+1121,Orlando,United States,New York City,United States,18
+1122,Orlando,United States,Los Angeles,United States,11
+1123,Orlando,United States,San Francisco,United States,8
+1124,Orlando,United States,London,United Kingdom,8
+1125,Orlando,United States,Tampa,United States,7
+1126,Orlando,United States,Medellin,Colombia,5
+1127,Orlando,United States,Atlanta,United States,5
+1128,Orlando,United States,Denver,United States,5
+1129,Orlando,United States,Nashville,United States,4
+1130,Kansas City,United States,Los Angeles,United States,6
+1131,Kansas City,United States,Las Vegas,United States,4
+1132,Kansas City,United States,Denver,United States,3
+1133,Kansas City,United States,San Francisco,United States,3
+1134,Kansas City,United States,Dallas,United States,3
+1135,Kansas City,United States,Boston,United States,2
+1136,Kansas City,United States,Bangkok,Thailand,2
+1137,Kansas City,United States,Portland,United States,2
+1138,Kansas City,United States,Minneapolis,United States,2
+1139,Kansas City,United States,Seattle,United States,2
+1140,Victoria,Canada,Vancouver,Canada,16
+1141,Victoria,Canada,Seattle,United States,4
+1142,Victoria,Canada,San Francisco,United States,3
+1143,Victoria,Canada,Los Angeles,United States,3
+1144,Victoria,Canada,London,United Kingdom,2
+1145,Victoria,Canada,Seoul,South Korea,1
+1146,Victoria,Canada,Melbourne,Australia,1
+1147,Victoria,Canada,Las Vegas,United States,1
+1148,Victoria,Canada,Montreal,Canada,1
+1149,Victoria,Canada,Rio De Janeiro,Brazil,1
+1150,Washington,United States,New York City,United States,64
+1151,Washington,United States,San Francisco,United States,19
+1152,Washington,United States,Chicago,United States,17
+1153,Washington,United States,Boston,United States,17
+1154,Washington,United States,Los Angeles,United States,11
+1155,Washington,United States,London,United Kingdom,11
+1156,Washington,United States,Mexico City,Mexico,8
+1157,Washington,United States,Buenos Aires,Argentina,7
+1158,Washington,United States,Denver,United States,7
+1159,Washington,United States,Austin,United States,6
+1160,San Diego,United States,Los Angeles,United States,53
+1161,San Diego,United States,San Francisco,United States,48
+1162,San Diego,United States,Las Vegas,United States,28
+1163,San Diego,United States,New York City,United States,21
+1164,San Diego,United States,Seattle,United States,19
+1165,San Diego,United States,Chicago,United States,9
+1166,San Diego,United States,Austin,United States,9
+1167,San Diego,United States,Miami,United States,8
+1168,San Diego,United States,Playa Del Carmen,Mexico,7
+1169,San Diego,United States,Mexico City,Mexico,7
+1170,Ottawa,Canada,Toronto,Canada,18
+1171,Ottawa,Canada,Montreal,Canada,11
+1172,Ottawa,Canada,Amsterdam,Netherlands,4
+1173,Ottawa,Canada,Bangkok,Thailand,3
+1174,Ottawa,Canada,London,United Kingdom,2
+1175,Ottawa,Canada,Chicago,United States,2
+1176,Ottawa,Canada,Orlando,United States,2
+1177,Ottawa,Canada,Seville,Spain,2
+1178,Ottawa,Canada,Minneapolis,United States,1
+1179,Ottawa,Canada,Boston,United States,1
+1180,Nashville,United States,Atlanta,United States,6
+1181,Nashville,United States,Dallas,United States,6
+1182,Nashville,United States,New York City,United States,5
+1183,Nashville,United States,San Francisco,United States,4
+1184,Nashville,United States,Miami,United States,4
+1185,Nashville,United States,New Orleans,United States,4
+1186,Nashville,United States,Los Angeles,United States,4
+1187,Nashville,United States,Las Vegas,United States,3
+1188,Nashville,United States,Chicago,United States,3
+1189,Nashville,United States,Mexico City,Mexico,2
+1190,Cincinnati,United States,Las Vegas,United States,4
+1191,Cincinnati,United States,Nashville,United States,3
+1192,Cincinnati,United States,Miami,United States,1
+1193,Cincinnati,United States,Louisville,United States,1
+1194,Cincinnati,United States,Chicago,United States,1
+1195,Cincinnati,United States,Orlando,United States,1
+1196,Cincinnati,United States,New York City,United States,1
+1197,Cincinnati,United States,Phoenix,United States,1
+1198,Cincinnati,United States,Dallas,United States,1
+1199,Cincinnati,United States,Indianapolis,United States,1
+1200,Salt Lake City,United States,San Francisco,United States,10
+1201,Salt Lake City,United States,New York City,United States,10
+1202,Salt Lake City,United States,Denver,United States,9
+1203,Salt Lake City,United States,Los Angeles,United States,7
+1204,Salt Lake City,United States,Las Vegas,United States,4
+1205,Salt Lake City,United States,Washington,United States,3
+1206,Salt Lake City,United States,San Diego,United States,3
+1207,Salt Lake City,United States,Austin,United States,2
+1208,Salt Lake City,United States,Christchurch,New Zealand,2
+1209,Salt Lake City,United States,Amsterdam,Netherlands,2
+1210,Minneapolis,United States,New York City,United States,15
+1211,Minneapolis,United States,Chicago,United States,10
+1212,Minneapolis,United States,San Francisco,United States,6
+1213,Minneapolis,United States,Kansas City,United States,4
+1214,Minneapolis,United States,Winnipeg,Canada,4
+1215,Minneapolis,United States,Austin,United States,4
+1216,Minneapolis,United States,Denver,United States,3
+1217,Minneapolis,United States,Amsterdam,Netherlands,3
+1218,Minneapolis,United States,Seoul,South Korea,3
+1219,Minneapolis,United States,Berlin,Germany,3
+1220,Brownsville,United States,Chicago,United States,1
+1221,Edmonton,Canada,Vancouver,Canada,14
+1222,Edmonton,Canada,Calgary,Canada,3
+1223,Edmonton,Canada,Montego Bay,Jamaica,3
+1224,Edmonton,Canada,Montreal,Canada,2
+1225,Edmonton,Canada,London,United Kingdom,2
+1226,Edmonton,Canada,Winnipeg,Canada,2
+1227,Edmonton,Canada,Las Vegas,United States,2
+1228,Edmonton,Canada,Toronto,Canada,2
+1229,Edmonton,Canada,New York City,United States,2
+1230,Edmonton,Canada,Medellin,Colombia,1
+1231,Winnipeg,Canada,Toronto,Canada,2
+1232,Winnipeg,Canada,Montreal,Canada,2
+1233,Winnipeg,Canada,Ottawa,Canada,2
+1234,Winnipeg,Canada,Minneapolis,United States,2
+1235,Winnipeg,Canada,Vancouver,Canada,1
+1236,Winnipeg,Canada,Mexico City,Mexico,1
+1237,Winnipeg,Canada,Shanghai,China,1
+1238,Winnipeg,Canada,Edmonton,Canada,1
+1239,Winnipeg,Canada,Queretaro,Mexico,1
+1240,Winnipeg,Canada,Porto Alegre,Brazil,1
+1241,Indianapolis,United States,Chicago,United States,6
+1242,Indianapolis,United States,Medellin,Colombia,4
+1243,Indianapolis,United States,New York City,United States,4
+1244,Indianapolis,United States,San Francisco,United States,3
+1245,Indianapolis,United States,Moscow,Russia,3
+1246,Indianapolis,United States,Seattle,United States,3
+1247,Indianapolis,United States,Washington,United States,3
+1248,Indianapolis,United States,Vilnius,Lithuania,3
+1249,Indianapolis,United States,San Diego,United States,2
+1250,Indianapolis,United States,Boston,United States,2
+1251,San Antonio,United States,Austin,United States,9
+1252,San Antonio,United States,Mexico City,Mexico,5
+1253,San Antonio,United States,Seattle,United States,3
+1254,San Antonio,United States,Boston,United States,3
+1255,San Antonio,United States,Dallas,United States,3
+1256,San Antonio,United States,Denver,United States,2
+1257,San Antonio,United States,Orlando,United States,2
+1258,San Antonio,United States,Toronto,Canada,2
+1259,San Antonio,United States,Santiago,Chile,2
+1260,San Antonio,United States,Barcelona,Spain,2
+1261,Saskatoon,Canada,Calgary,Canada,3
+1262,Saskatoon,Canada,Toronto,Canada,1
+1263,Saskatoon,Canada,Winnipeg,Canada,1
+1264,Calgary,Canada,Vancouver,Canada,10
+1265,Calgary,Canada,Toronto,Canada,7
+1266,Calgary,Canada,London,United Kingdom,5
+1267,Calgary,Canada,Seattle,United States,3
+1268,Calgary,Canada,Saskatoon,Canada,3
+1269,Calgary,Canada,Edmonton,Canada,3
+1270,Calgary,Canada,San Francisco,United States,2
+1271,Calgary,Canada,Chiang Mai,Thailand,2
+1272,Calgary,Canada,Cabo San Lucas,Mexico,2
+1273,Calgary,Canada,Taipei,Taiwan,2
+1274,Laredo,United States,San Miguel De Allende,Mexico,1
+1275,Laredo,United States,San Antonio,United States,1
+1276,Columbus,United States,New York City,United States,1
+1277,Birmingham,United States,Playa Del Carmen,Mexico,4
+1278,Birmingham,United States,San Francisco,United States,3
+1279,Birmingham,United States,Mexico City,Mexico,3
+1280,Birmingham,United States,Dallas,United States,2
+1281,Birmingham,United States,Merida,Mexico,2
+1282,Birmingham,United States,Atlanta,United States,2
+1283,Birmingham,United States,Istanbul,Turkey,2
+1284,Birmingham,United States,Oaxaca,Mexico,1
+1285,Birmingham,United States,Austin,United States,1
+1286,Birmingham,United States,Doha,Qatar,1
+1287,Louisville,United States,San Francisco,United States,4
+1288,Louisville,United States,Miami,United States,2
+1289,Louisville,United States,Birmingham,United States,2
+1290,Louisville,United States,Recife,Brazil,1
+1291,Louisville,United States,Austin,United States,1
+1292,Louisville,United States,New York City,United States,1
+1293,Louisville,United States,Kyiv,Ukraine,1
+1294,Louisville,United States,Minneapolis,United States,1
+1295,Louisville,United States,Paris,France,1
+1296,Louisville,United States,Indianapolis,United States,1
+1297,Ogden,United States,Santiago,Chile,1
+1298,Ogden,United States,Vancouver,Canada,1
+1299,Surrey,Canada,Edmonton,Canada,1
+1300,Phoenix,United States,San Francisco,United States,8
+1301,Phoenix,United States,New York City,United States,7
+1302,Phoenix,United States,Los Angeles,United States,6
+1303,Phoenix,United States,Seattle,United States,6
+1304,Phoenix,United States,Austin,United States,4
+1305,Phoenix,United States,Chicago,United States,4
+1306,Phoenix,United States,London,United Kingdom,3
+1307,Phoenix,United States,Las Vegas,United States,3
+1308,Phoenix,United States,Miami,United States,2
+1309,Phoenix,United States,Toronto,Canada,2
+1310,Oaxaca,Mexico,Mexico City,Mexico,41
+1311,Oaxaca,Mexico,Puerto Escondido,Mexico,22
+1312,Oaxaca,Mexico,San Cristobal De Las Casas,Mexico,6
+1313,Oaxaca,Mexico,Puerto Vallarta,Mexico,6
+1314,Oaxaca,Mexico,Playa Del Carmen,Mexico,6
+1315,Oaxaca,Mexico,Merida,Mexico,5
+1316,Oaxaca,Mexico,Medellin,Colombia,4
+1317,Oaxaca,Mexico,Guadalajara,Mexico,3
+1318,Oaxaca,Mexico,Chicago,United States,3
+1319,Oaxaca,Mexico,San Miguel De Allende,Mexico,2
+1320,Playa Del Carmen,Mexico,Tulum,Mexico,60
+1321,Playa Del Carmen,Mexico,Mexico City,Mexico,38
+1322,Playa Del Carmen,Mexico,Merida,Mexico,17
+1323,Playa Del Carmen,Mexico,Cozumel,Mexico,11
+1324,Playa Del Carmen,Mexico,Cancun,Mexico,11
+1325,Playa Del Carmen,Mexico,Oaxaca,Mexico,10
+1326,Playa Del Carmen,Mexico,New York City,United States,9
+1327,Playa Del Carmen,Mexico,Antigua,Guatemala,8
+1328,Playa Del Carmen,Mexico,London,United Kingdom,7
+1329,Playa Del Carmen,Mexico,Puerto Vallarta,Mexico,6
+1330,Sao Paulo,Brazil,Rio De Janeiro,Brazil,80
+1331,Sao Paulo,Brazil,Florianopolis,Brazil,25
+1332,Sao Paulo,Brazil,Buenos Aires,Argentina,25
+1333,Sao Paulo,Brazil,Lisbon,Portugal,18
+1334,Sao Paulo,Brazil,Mexico City,Mexico,16
+1335,Sao Paulo,Brazil,Los Angeles,United States,14
+1336,Sao Paulo,Brazil,New York City,United States,14
+1337,Sao Paulo,Brazil,Berlin,Germany,11
+1338,Sao Paulo,Brazil,Santiago,Chile,10
+1339,Sao Paulo,Brazil,London,United Kingdom,9
+1340,Puerto Escondido,Mexico,Mexico City,Mexico,19
+1341,Puerto Escondido,Mexico,Oaxaca,Mexico,13
+1342,Puerto Escondido,Mexico,Cancun,Mexico,5
+1343,Puerto Escondido,Mexico,Seattle,United States,3
+1344,Puerto Escondido,Mexico,San Cristobal De Las Casas,Mexico,3
+1345,Puerto Escondido,Mexico,Playa Del Carmen,Mexico,3
+1346,Puerto Escondido,Mexico,San Francisco,United States,2
+1347,Puerto Escondido,Mexico,Medellin,Colombia,2
+1348,Puerto Escondido,Mexico,New York City,United States,2
+1349,Puerto Escondido,Mexico,Austin,United States,2
+1350,Buenos Aires,Argentina,Montevideo,Uruguay,52
+1351,Buenos Aires,Argentina,Santiago,Chile,35
+1352,Buenos Aires,Argentina,Sao Paulo,Brazil,24
+1353,Buenos Aires,Argentina,Rio De Janeiro,Brazil,19
+1354,Buenos Aires,Argentina,Cordoba,Argentina,14
+1355,Buenos Aires,Argentina,Lima,Peru,13
+1356,Buenos Aires,Argentina,New York City,United States,13
+1357,Buenos Aires,Argentina,Mexico City,Mexico,12
+1358,Buenos Aires,Argentina,Ushuaia,Argentina,12
+1359,Buenos Aires,Argentina,Barcelona,Spain,8
+1360,Mexico City,Mexico,New York City,United States,48
+1361,Mexico City,Mexico,Oaxaca,Mexico,44
+1362,Mexico City,Mexico,Playa Del Carmen,Mexico,44
+1363,Mexico City,Mexico,Medellin,Colombia,33
+1364,Mexico City,Mexico,Puerto Escondido,Mexico,31
+1365,Mexico City,Mexico,Cancun,Mexico,29
+1366,Mexico City,Mexico,San Francisco,United States,27
+1367,Mexico City,Mexico,Guadalajara,Mexico,26
+1368,Mexico City,Mexico,Tulum,Mexico,22
+1369,Mexico City,Mexico,Los Angeles,United States,19
+1370,Lima,Peru,Medellin,Colombia,24
+1371,Lima,Peru,Santiago,Chile,19
+1372,Lima,Peru,Buenos Aires,Argentina,11
+1373,Lima,Peru,Mexico City,Mexico,11
+1374,Lima,Peru,Arequipa,Peru,10
+1375,Lima,Peru,Quito,Ecuador,8
+1376,Lima,Peru,Rio De Janeiro,Brazil,7
+1377,Lima,Peru,New York City,United States,6
+1378,Lima,Peru,Barcelona,Spain,6
+1379,Lima,Peru,Miami,United States,5
+1380,Florianopolis,Brazil,Sao Paulo,Brazil,23
+1381,Florianopolis,Brazil,Rio De Janeiro,Brazil,17
+1382,Florianopolis,Brazil,Porto Alegre,Brazil,7
+1383,Florianopolis,Brazil,Lima,Peru,3
+1384,Florianopolis,Brazil,Dubai,United Arab Emirates,3
+1385,Florianopolis,Brazil,Lisbon,Portugal,2
+1386,Florianopolis,Brazil,Brasilia,Brazil,2
+1387,Florianopolis,Brazil,Paris,France,2
+1388,Florianopolis,Brazil,Orlando,United States,2
+1389,Florianopolis,Brazil,Buenos Aires,Argentina,2
+1390,Tulum,Mexico,Playa Del Carmen,Mexico,30
+1391,Tulum,Mexico,Mexico City,Mexico,16
+1392,Tulum,Mexico,New York City,United States,14
+1393,Tulum,Mexico,Cancun,Mexico,8
+1394,Tulum,Mexico,Merida,Mexico,8
+1395,Tulum,Mexico,Los Angeles,United States,7
+1396,Tulum,Mexico,Austin,United States,6
+1397,Tulum,Mexico,Medellin,Colombia,5
+1398,Tulum,Mexico,San Francisco,United States,4
+1399,Tulum,Mexico,Miami,United States,3
+1400,Medellin,Colombia,Mexico City,Mexico,30
+1401,Medellin,Colombia,Lima,Peru,25
+1402,Medellin,Colombia,Buenos Aires,Argentina,16
+1403,Medellin,Colombia,Madrid,Spain,14
+1404,Medellin,Colombia,Miami,United States,14
+1405,Medellin,Colombia,New York City,United States,11
+1406,Medellin,Colombia,Playa Del Carmen,Mexico,9
+1407,Medellin,Colombia,San Francisco,United States,8
+1408,Medellin,Colombia,Quito,Ecuador,8
+1409,Medellin,Colombia,Los Angeles,United States,7
+1410,Rio De Janeiro,Brazil,Sao Paulo,Brazil,78
+1411,Rio De Janeiro,Brazil,Buenos Aires,Argentina,26
+1412,Rio De Janeiro,Brazil,Florianopolis,Brazil,15
+1413,Rio De Janeiro,Brazil,Salvador,Brazil,15
+1414,Rio De Janeiro,Brazil,Santiago,Chile,10
+1415,Rio De Janeiro,Brazil,Medellin,Colombia,9
+1416,Rio De Janeiro,Brazil,San Francisco,United States,9
+1417,Rio De Janeiro,Brazil,London,United Kingdom,8
+1418,Rio De Janeiro,Brazil,New York City,United States,8
+1419,Rio De Janeiro,Brazil,Porto Alegre,Brazil,7
+1420,San Miguel De Allende,Mexico,Mexico City,Mexico,13
+1421,San Miguel De Allende,Mexico,Boston,United States,4
+1422,San Miguel De Allende,Mexico,Guadalajara,Mexico,3
+1423,San Miguel De Allende,Mexico,New Orleans,United States,3
+1424,San Miguel De Allende,Mexico,Toronto,Canada,3
+1425,San Miguel De Allende,Mexico,Guanajuato,Mexico,3
+1426,San Miguel De Allende,Mexico,Miami,United States,2
+1427,San Miguel De Allende,Mexico,Victoria,Canada,2
+1428,San Miguel De Allende,Mexico,Los Angeles,United States,2
+1429,San Miguel De Allende,Mexico,Puerto Escondido,Mexico,2
+1430,Queretaro,Mexico,Mexico City,Mexico,6
+1431,Queretaro,Mexico,San Miguel De Allende,Mexico,3
+1432,Queretaro,Mexico,Guanajuato,Mexico,3
+1433,Queretaro,Mexico,New Orleans,United States,2
+1434,Queretaro,Mexico,Las Vegas,United States,1
+1435,Queretaro,Mexico,Los Angeles,United States,1
+1436,Queretaro,Mexico,Puerto Vallarta,Mexico,1
+1437,Queretaro,Mexico,Berlin,Germany,1
+1438,Queretaro,Mexico,Belgrade,Serbia,1
+1439,Queretaro,Mexico,Playa Del Carmen,Mexico,1
+1440,Guadalajara,Mexico,Mexico City,Mexico,21
+1441,Guadalajara,Mexico,Puerto Vallarta,Mexico,12
+1442,Guadalajara,Mexico,Oaxaca,Mexico,5
+1443,Guadalajara,Mexico,Playa Del Carmen,Mexico,4
+1444,Guadalajara,Mexico,Los Angeles,United States,3
+1445,Guadalajara,Mexico,London,United Kingdom,3
+1446,Guadalajara,Mexico,Lima,Peru,3
+1447,Guadalajara,Mexico,Merida,Mexico,3
+1448,Guadalajara,Mexico,Portland,United States,3
+1449,Guadalajara,Mexico,Seattle,United States,3
+1450,Porto Alegre,Brazil,Rio De Janeiro,Brazil,10
+1451,Porto Alegre,Brazil,Sao Paulo,Brazil,8
+1452,Porto Alegre,Brazil,Florianopolis,Brazil,6
+1453,Porto Alegre,Brazil,Lisbon,Portugal,3
+1454,Porto Alegre,Brazil,New York City,United States,3
+1455,Porto Alegre,Brazil,Berlin,Germany,2
+1456,Porto Alegre,Brazil,Brasilia,Brazil,2
+1457,Porto Alegre,Brazil,Campinas,Brazil,2
+1458,Porto Alegre,Brazil,Santiago,Chile,1
+1459,Porto Alegre,Brazil,Belgrade,Serbia,1
+1460,Monterrey,Mexico,Mexico City,Mexico,4
+1461,Monterrey,Mexico,Austin,United States,2
+1462,Monterrey,Mexico,Los Angeles,United States,2
+1463,Monterrey,Mexico,Guadalajara,Mexico,2
+1464,Monterrey,Mexico,Antigua,Guatemala,1
+1465,Monterrey,Mexico,Tulum,Mexico,1
+1466,Monterrey,Mexico,Indianapolis,United States,1
+1467,Monterrey,Mexico,Seattle,United States,1
+1468,Monterrey,Mexico,Tokyo,Japan,1
+1469,Monterrey,Mexico,Atlanta,United States,1
+1470,Guanajuato,Mexico,Guadalajara,Mexico,6
+1471,Guanajuato,Mexico,Queretaro,Mexico,4
+1472,Guanajuato,Mexico,San Miguel De Allende,Mexico,4
+1473,Guanajuato,Mexico,Mexico City,Mexico,3
+1474,Guanajuato,Mexico,Seattle,United States,2
+1475,Guanajuato,Mexico,Chicago,United States,1
+1476,Guanajuato,Mexico,Cabo San Lucas,Mexico,1
+1477,Guanajuato,Mexico,New York City,United States,1
+1478,Guanajuato,Mexico,Los Angeles,United States,1
+1479,Guanajuato,Mexico,Austin,United States,1
+1480,Havana,Cuba,Mexico City,Mexico,10
+1481,Havana,Cuba,New York City,United States,7
+1482,Havana,Cuba,Playa Del Carmen,Mexico,6
+1483,Havana,Cuba,Cancun,Mexico,5
+1484,Havana,Cuba,Miami,United States,3
+1485,Havana,Cuba,Los Angeles,United States,3
+1486,Havana,Cuba,Medellin,Colombia,3
+1487,Havana,Cuba,New Orleans,United States,3
+1488,Havana,Cuba,Vancouver,Canada,2
+1489,Havana,Cuba,San Francisco,United States,2
+1490,Antigua,Guatemala,Medellin,Colombia,8
+1491,Antigua,Guatemala,Playa Del Carmen,Mexico,6
+1492,Antigua,Guatemala,Mexico City,Mexico,6
+1493,Antigua,Guatemala,Miami,United States,3
+1494,Antigua,Guatemala,Oaxaca,Mexico,3
+1495,Antigua,Guatemala,Paris,France,2
+1496,Antigua,Guatemala,Berlin,Germany,2
+1497,Antigua,Guatemala,Lima,Peru,2
+1498,Antigua,Guatemala,Lisbon,Portugal,2
+1499,Antigua,Guatemala,Atlanta,United States,1
+1500,Willemstad,Curacao,Medellin,Colombia,2
+1501,Willemstad,Curacao,London,United Kingdom,2
+1502,Willemstad,Curacao,Amsterdam,Netherlands,2
+1503,Willemstad,Curacao,New York City,United States,2
+1504,Willemstad,Curacao,Fortaleza,Brazil,1
+1505,Willemstad,Curacao,Toronto,Canada,1
+1506,Willemstad,Curacao,Munich,Germany,1
+1507,Willemstad,Curacao,Munggu Bali,Indonesia,1
+1508,Willemstad,Curacao,Antalya,Turkey,1
+1509,Montevideo,Uruguay,Buenos Aires,Argentina,42
+1510,Montevideo,Uruguay,Santiago,Chile,10
+1511,Montevideo,Uruguay,Sao Paulo,Brazil,5
+1512,Montevideo,Uruguay,Medellin,Colombia,4
+1513,Montevideo,Uruguay,Lima,Peru,4
+1514,Montevideo,Uruguay,Madrid,Spain,3
+1515,Montevideo,Uruguay,Florianopolis,Brazil,3
+1516,Montevideo,Uruguay,San Francisco,United States,2
+1517,Montevideo,Uruguay,Barcelona,Spain,2
+1518,Montevideo,Uruguay,Miami,United States,2
+1519,Galapagos Islands,Ecuador,Quito,Ecuador,8
+1520,Galapagos Islands,Ecuador,Lima,Peru,3
+1521,Galapagos Islands,Ecuador,Santiago,Chile,1
+1522,Galapagos Islands,Ecuador,Medellin,Colombia,1
+1523,Galapagos Islands,Ecuador,Shanghai,China,1
+1524,Galapagos Islands,Ecuador,Boston,United States,1
+1525,Galapagos Islands,Ecuador,Mexico City,Mexico,1
+1526,Galapagos Islands,Ecuador,Los Angeles,United States,1
+1527,Santiago,Chile,Buenos Aires,Argentina,38
+1528,Santiago,Chile,Lima,Peru,25
+1529,Santiago,Chile,Sao Paulo,Brazil,12
+1530,Santiago,Chile,Rio De Janeiro,Brazil,10
+1531,Santiago,Chile,Mexico City,Mexico,8
+1532,Santiago,Chile,Montevideo,Uruguay,7
+1533,Santiago,Chile,Medellin,Colombia,6
+1534,Santiago,Chile,Barcelona,Spain,5
+1535,Santiago,Chile,Miami,United States,4
+1536,Santiago,Chile,San Francisco,United States,4
+1537,Puerto Vallarta,Mexico,Mexico City,Mexico,23
+1538,Puerto Vallarta,Mexico,Los Angeles,United States,13
+1539,Puerto Vallarta,Mexico,Guadalajara,Mexico,12
+1540,Puerto Vallarta,Mexico,New York City,United States,9
+1541,Puerto Vallarta,Mexico,Vancouver,Canada,8
+1542,Puerto Vallarta,Mexico,San Francisco,United States,6
+1543,Puerto Vallarta,Mexico,Oaxaca,Mexico,6
+1544,Puerto Vallarta,Mexico,Las Vegas,United States,4
+1545,Puerto Vallarta,Mexico,Montreal,Canada,4
+1546,Puerto Vallarta,Mexico,Playa Del Carmen,Mexico,3
+1547,Merida,Mexico,Playa Del Carmen,Mexico,11
+1548,Merida,Mexico,Oaxaca,Mexico,9
+1549,Merida,Mexico,Mexico City,Mexico,8
+1550,Merida,Mexico,Tulum,Mexico,7
+1551,Merida,Mexico,Cancun,Mexico,6
+1552,Merida,Mexico,New York City,United States,3
+1553,Merida,Mexico,Guadalajara,Mexico,2
+1554,Merida,Mexico,San Cristobal De Las Casas,Mexico,2
+1555,Merida,Mexico,Cozumel,Mexico,2
+1556,Merida,Mexico,Phoenix,United States,1
+1557,Kingston,Jamaica,Montego Bay,Jamaica,3
+1558,Kingston,Jamaica,New Orleans,United States,1
+1559,Kingston,Jamaica,Berlin,Germany,1
+1560,Cordoba,Argentina,Buenos Aires,Argentina,21
+1561,Cordoba,Argentina,Salta,Argentina,4
+1562,Cordoba,Argentina,Barcelona,Spain,4
+1563,Cordoba,Argentina,London,United Kingdom,3
+1564,Cordoba,Argentina,Santiago,Chile,3
+1565,Cordoba,Argentina,Lima,Peru,3
+1566,Cordoba,Argentina,Singapore,Singapore,1
+1567,Cordoba,Argentina,Montreal,Canada,1
+1568,Cordoba,Argentina,Miami,United States,1
+1569,Cordoba,Argentina,Birmingham,United States,1
+1570,Cancun,Mexico,Playa Del Carmen,Mexico,48
+1571,Cancun,Mexico,Tulum,Mexico,22
+1572,Cancun,Mexico,Mexico City,Mexico,19
+1573,Cancun,Mexico,Miami,United States,8
+1574,Cancun,Mexico,New York City,United States,6
+1575,Cancun,Mexico,London,United Kingdom,6
+1576,Cancun,Mexico,Paris,France,6
+1577,Cancun,Mexico,Madrid,Spain,5
+1578,Cancun,Mexico,Boston,United States,5
+1579,Cancun,Mexico,San Francisco,United States,5
+1580,La Plata,Argentina,Lima,Peru,1
+1581,La Plata,Argentina,Cordoba,Argentina,1
+1582,La Plata,Argentina,Amsterdam,Netherlands,1
+1583,La Plata,Argentina,Chicago,United States,1
+1584,Cuenca,Ecuador,Quito,Ecuador,4
+1585,Cuenca,Ecuador,New York City,United States,3
+1586,Cuenca,Ecuador,Buenos Aires,Argentina,1
+1587,Cuenca,Ecuador,Brasov,Romania,1
+1588,Cuenca,Ecuador,Medellin,Colombia,1
+1589,Cuenca,Ecuador,Lima,Peru,1
+1590,Cuenca,Ecuador,Portland,United States,1
+1591,Cuenca,Ecuador,Toronto,Canada,1
+1592,Cuenca,Ecuador,Seattle,United States,1
+1593,Cuenca,Ecuador,Mexico City,Mexico,1
+1594,Brasilia,Brazil,Rio De Janeiro,Brazil,8
+1595,Brasilia,Brazil,Sao Paulo,Brazil,5
+1596,Brasilia,Brazil,Porto Alegre,Brazil,2
+1597,Brasilia,Brazil,Florianopolis,Brazil,2
+1598,Brasilia,Brazil,Buenos Aires,Argentina,1
+1599,Brasilia,Brazil,Chicago,United States,1
+1600,Brasilia,Brazil,Stockholm,Sweden,1
+1601,Brasilia,Brazil,New York City,United States,1
+1602,Brasilia,Brazil,Bangkok,Thailand,1
+1603,Brasilia,Brazil,San Francisco,United States,1
+1604,Paramaribo,Suriname,Georgetown,Guyana,3
+1605,Paramaribo,Suriname,Amsterdam,Netherlands,1
+1606,Paramaribo,Suriname,Tunis,Tunisia,1
+1607,Cabo San Lucas,Mexico,Mexico City,Mexico,6
+1608,Cabo San Lucas,Mexico,Los Angeles,United States,6
+1609,Cabo San Lucas,Mexico,Denver,United States,3
+1610,Cabo San Lucas,Mexico,San Diego,United States,3
+1611,Cabo San Lucas,Mexico,Puerto Escondido,Mexico,2
+1612,Cabo San Lucas,Mexico,New York City,United States,2
+1613,Cabo San Lucas,Mexico,San Francisco,United States,2
+1614,Cabo San Lucas,Mexico,Playa Del Carmen,Mexico,2
+1615,Cabo San Lucas,Mexico,Minneapolis,United States,2
+1616,Cabo San Lucas,Mexico,Miami,United States,2
+1617,Montego Bay,Jamaica,Edmonton,Canada,4
+1618,Montego Bay,Jamaica,Boston,United States,3
+1619,Montego Bay,Jamaica,New York City,United States,2
+1620,Montego Bay,Jamaica,London,United Kingdom,2
+1621,Montego Bay,Jamaica,Toronto,Canada,1
+1622,Montego Bay,Jamaica,Kingston,Jamaica,1
+1623,Montego Bay,Jamaica,Portland,United States,1
+1624,Montego Bay,Jamaica,Medellin,Colombia,1
+1625,Montego Bay,Jamaica,Atlanta,United States,1
+1626,Montego Bay,Jamaica,Washington,United States,1
+1627,Fortaleza,Brazil,Sao Paulo,Brazil,6
+1628,Fortaleza,Brazil,Montreal,Canada,4
+1629,Fortaleza,Brazil,Paris,France,3
+1630,Fortaleza,Brazil,Chiang Mai,Thailand,2
+1631,Fortaleza,Brazil,Brasilia,Brazil,2
+1632,Fortaleza,Brazil,Florianopolis,Brazil,2
+1633,Fortaleza,Brazil,Cancun,Mexico,1
+1634,Fortaleza,Brazil,Recife,Brazil,1
+1635,Fortaleza,Brazil,Porto,Portugal,1
+1636,Fortaleza,Brazil,Madrid,Spain,1
+1637,Salta,Argentina,Cordoba,Argentina,2
+1638,Salta,Argentina,Buenos Aires,Argentina,2
+1639,Salta,Argentina,Casablanca,Morocco,1
+1640,Salta,Argentina,Moscow,Russia,1
+1641,Quito,Ecuador,Galapagos Islands,Ecuador,13
+1642,Quito,Ecuador,Medellin,Colombia,12
+1643,Quito,Ecuador,Cuenca,Ecuador,6
+1644,Quito,Ecuador,Lima,Peru,5
+1645,Quito,Ecuador,Mexico City,Mexico,3
+1646,Quito,Ecuador,Lisbon,Portugal,2
+1647,Quito,Ecuador,Montreal,Canada,2
+1648,Quito,Ecuador,Tirana,Albania,1
+1649,Quito,Ecuador,Ushuaia,Argentina,1
+1650,Quito,Ecuador,Playa Del Carmen,Mexico,1
+1651,Georgetown,Guyana,Paramaribo,Suriname,1
+1652,Cozumel,Mexico,Playa Del Carmen,Mexico,12
+1653,Cozumel,Mexico,Tulum,Mexico,3
+1654,Cozumel,Mexico,Mexico City,Mexico,3
+1655,Cozumel,Mexico,Cancun,Mexico,3
+1656,Cozumel,Mexico,Miami,United States,1
+1657,Cozumel,Mexico,Salt Lake City,United States,1
+1658,Cozumel,Mexico,Atlanta,United States,1
+1659,Cozumel,Mexico,Dahab,Egypt,1
+1660,Cozumel,Mexico,Canggu Bali,Indonesia,1
+1661,Cozumel,Mexico,Prague,Czechia,1
+1662,Arequipa,Peru,Lima,Peru,11
+1663,Arequipa,Peru,Buenos Aires,Argentina,2
+1664,Arequipa,Peru,Medellin,Colombia,1
+1665,Arequipa,Peru,Mexico City,Mexico,1
+1666,Arequipa,Peru,Guadalajara,Mexico,1
+1667,Hermosillo,Mexico,Monterrey,Mexico,1
+1668,Hermosillo,Mexico,Mexico City,Mexico,1
+1669,Mar Del Plata,Argentina,Buenos Aires,Argentina,2
+1670,Mar Del Plata,Argentina,Montevideo,Uruguay,2
+1671,Mar Del Plata,Argentina,London,United Kingdom,1
+1672,Mar Del Plata,Argentina,Cordoba,Argentina,1
+1673,Ushuaia,Argentina,Buenos Aires,Argentina,7
+1674,Ushuaia,Argentina,Santiago,Chile,3
+1675,Ushuaia,Argentina,Sao Paulo,Brazil,2
+1676,Ushuaia,Argentina,Montevideo,Uruguay,1
+1677,Ushuaia,Argentina,Miami,United States,1
+1678,Ushuaia,Argentina,Salta,Argentina,1
+1679,Ushuaia,Argentina,New York City,United States,1
+1680,Campinas,Brazil,Porto Alegre,Brazil,2
+1681,Campinas,Brazil,Honolulu,United States,1
+1682,Campinas,Brazil,Sao Paulo,Brazil,1
+1683,Campinas,Brazil,Porto,Portugal,1
+1684,Belem,Brazil,Sao Paulo,Brazil,2
+1685,Belem,Brazil,Fortaleza,Brazil,1
+1686,Belem,Brazil,Paramaribo,Suriname,1
+1687,Belem,Brazil,Rio De Janeiro,Brazil,1
+1688,Salvador,Brazil,Sao Paulo,Brazil,15
+1689,Salvador,Brazil,Recife,Brazil,9
+1690,Salvador,Brazil,Rio De Janeiro,Brazil,7
+1691,Salvador,Brazil,Fortaleza,Brazil,7
+1692,Salvador,Brazil,Bangkok,Thailand,2
+1693,Salvador,Brazil,Orlando,United States,2
+1694,Salvador,Brazil,Paris,France,2
+1695,Salvador,Brazil,Buenos Aires,Argentina,1
+1696,Salvador,Brazil,Auckland,New Zealand,1
+1697,Salvador,Brazil,Lima,Peru,1
+1698,Rosario,Argentina,Cordoba,Argentina,5
+1699,Rosario,Argentina,Buenos Aires,Argentina,3
+1700,Rosario,Argentina,Madrid,Spain,1
+1701,Rosario,Argentina,Sao Paulo,Brazil,1
+1702,Rosario,Argentina,Playa Del Carmen,Mexico,1
+1703,Rosario,Argentina,Sydney,Australia,1
+1704,Rosario,Argentina,Barcelona,Spain,1
+1705,San Cristobal De Las Casas,Mexico,Oaxaca,Mexico,9
+1706,San Cristobal De Las Casas,Mexico,Mexico City,Mexico,8
+1707,San Cristobal De Las Casas,Mexico,Antigua,Guatemala,3
+1708,San Cristobal De Las Casas,Mexico,Cancun,Mexico,3
+1709,San Cristobal De Las Casas,Mexico,Tulum,Mexico,2
+1710,San Cristobal De Las Casas,Mexico,Puerto Vallarta,Mexico,2
+1711,San Cristobal De Las Casas,Mexico,Guadalajara,Mexico,2
+1712,San Cristobal De Las Casas,Mexico,Puerto Escondido,Mexico,2
+1713,San Cristobal De Las Casas,Mexico,Merida,Mexico,2
+1714,San Cristobal De Las Casas,Mexico,Vancouver,Canada,1
+1715,Recife,Brazil,Salvador,Brazil,8
+1716,Recife,Brazil,Rio De Janeiro,Brazil,6
+1717,Recife,Brazil,Sao Paulo,Brazil,3
+1718,Recife,Brazil,New York City,United States,2
+1719,Recife,Brazil,Fortaleza,Brazil,2
+1720,Recife,Brazil,London,United Kingdom,1
+1721,Recife,Brazil,Playa Del Carmen,Mexico,1
+1722,Recife,Brazil,Chicago,United States,1
+1723,Recife,Brazil,Toronto,Canada,1
+1724,Recife,Brazil,Belem,Brazil,1
+1725,La Serena,Chile,Santiago,Chile,3
+1726,La Serena,Chile,Sao Paulo,Brazil,2
+1727,La Serena,Chile,Brisbane,Australia,1
+1728,La Serena,Chile,Buenos Aires,Argentina,1
+1729,Caye Caulker,Belize,Antigua,Guatemala,2
+1730,Caye Caulker,Belize,San Miguel De Allende,Mexico,1
+1731,Caye Caulker,Belize,Tulum,Mexico,1
+1732,Caye Caulker,Belize,Ogden,United States,1
+1733,Caye Caulker,Belize,New Orleans,United States,1
+1734,Caye Caulker,Belize,Guadalajara,Mexico,1
+1735,Caye Caulker,Belize,Dallas,United States,1
+1736,Caye Caulker,Belize,Christchurch,New Zealand,1
+1737,Caye Caulker,Belize,Ho Chi Minh City,Vietnam,1
+1738,Caye Caulker,Belize,Denver,United States,1
+1739,Cape Town,South Africa,Johannesburg,South Africa,21
+1740,Cape Town,South Africa,Amsterdam,Netherlands,20
+1741,Cape Town,South Africa,London,United Kingdom,14
+1742,Cape Town,South Africa,Lisbon,Portugal,12
+1743,Cape Town,South Africa,Bangkok,Thailand,11
+1744,Cape Town,South Africa,Canggu Bali,Indonesia,9
+1745,Cape Town,South Africa,Durban,South Africa,9
+1746,Cape Town,South Africa,Dubai,United Arab Emirates,9
+1747,Cape Town,South Africa,Istanbul,Turkey,8
+1748,Cape Town,South Africa,Buenos Aires,Argentina,6
+1749,Johannesburg,South Africa,Cape Town,South Africa,28
+1750,Johannesburg,South Africa,Dubai,United Arab Emirates,5
+1751,Johannesburg,South Africa,London,United Kingdom,4
+1752,Johannesburg,South Africa,Amsterdam,Netherlands,4
+1753,Johannesburg,South Africa,Port Louis,Mauritius,3
+1754,Johannesburg,South Africa,Beirut,Lebanon,3
+1755,Johannesburg,South Africa,Gaborone,Botswana,2
+1756,Johannesburg,South Africa,Montreal,Canada,2
+1757,Johannesburg,South Africa,Bangkok,Thailand,2
+1758,Johannesburg,South Africa,New York City,United States,2
+1759,Taghazout,Morocco,Marrakesh,Morocco,5
+1760,Taghazout,Morocco,Paris,France,4
+1761,Taghazout,Morocco,Las Palmas Canary Islands,Spain,4
+1762,Taghazout,Morocco,Canggu Bali,Indonesia,4
+1763,Taghazout,Morocco,Fes,Morocco,4
+1764,Taghazout,Morocco,Budapest,Hungary,3
+1765,Taghazout,Morocco,London,United Kingdom,2
+1766,Taghazout,Morocco,Bangkok,Thailand,2
+1767,Taghazout,Morocco,Lisbon,Portugal,2
+1768,Taghazout,Morocco,Agadir,Morocco,1
+1769,Pretoria,South Africa,Kuala Lumpur,Malaysia,1
+1770,Pretoria,South Africa,Bansko,Bulgaria,1
+1771,Pretoria,South Africa,Cape Town,South Africa,1
+1772,Pretoria,South Africa,Nashville,United States,1
+1773,Port Elizabeth,South Africa,Cape Town,South Africa,6
+1774,Port Elizabeth,South Africa,Durban,South Africa,1
+1775,Port Elizabeth,South Africa,San Diego,United States,1
+1776,Port Elizabeth,South Africa,Chiang Mai,Thailand,1
+1777,Port Elizabeth,South Africa,Budapest,Hungary,1
+1778,Port Elizabeth,South Africa,Lima,Peru,1
+1779,Harare,Zimbabwe,Cape Town,South Africa,2
+1780,Harare,Zimbabwe,Durban,South Africa,1
+1781,Harare,Zimbabwe,Port Elizabeth,South Africa,1
+1782,Port Louis,Mauritius,Chiang Mai,Thailand,2
+1783,Port Louis,Mauritius,Cape Town,South Africa,2
+1784,Port Louis,Mauritius,Paris,France,2
+1785,Port Louis,Mauritius,Dubai,United Arab Emirates,1
+1786,Port Louis,Mauritius,New York City,United States,1
+1787,Port Louis,Mauritius,Amsterdam,Netherlands,1
+1788,Port Louis,Mauritius,Munich,Germany,1
+1789,Port Louis,Mauritius,Canggu Bali,Indonesia,1
+1790,Port Louis,Mauritius,Warsaw,Poland,1
+1791,Port Louis,Mauritius,Austin,United States,1
+1792,Marrakesh,Morocco,Barcelona,Spain,16
+1793,Marrakesh,Morocco,Essaouira,Morocco,16
+1794,Marrakesh,Morocco,Fes,Morocco,12
+1795,Marrakesh,Morocco,Taghazout,Morocco,9
+1796,Marrakesh,Morocco,Casablanca,Morocco,8
+1797,Marrakesh,Morocco,Berlin,Germany,8
+1798,Marrakesh,Morocco,London,United Kingdom,7
+1799,Marrakesh,Morocco,Madrid,Spain,6
+1800,Marrakesh,Morocco,Paris,France,5
+1801,Marrakesh,Morocco,Lisbon,Portugal,5
+1802,Lagos,Nigeria,London,United Kingdom,2
+1803,Lagos,Nigeria,Istanbul,Turkey,2
+1804,Lagos,Nigeria,Dahab,Egypt,1
+1805,Lagos,Nigeria,Montego Bay,Jamaica,1
+1806,Lagos,Nigeria,Denver,United States,1
+1807,Lagos,Nigeria,Barcelona,Spain,1
+1808,Lagos,Nigeria,Canggu Bali,Indonesia,1
+1809,Lagos,Nigeria,Dakar,Senegal,1
+1810,El Jadida,Morocco,Fes,Morocco,1
+1811,El Jadida,Morocco,Casablanca,Morocco,1
+1812,Tangier,Morocco,Barcelona,Spain,4
+1813,Tangier,Morocco,Marrakesh,Morocco,3
+1814,Tangier,Morocco,Amsterdam,Netherlands,1
+1815,Tangier,Morocco,Madrid,Spain,1
+1816,Tangier,Morocco,Paris,France,1
+1817,Tangier,Morocco,Seville,Spain,1
+1818,Tangier,Morocco,Fes,Morocco,1
+1819,Tangier,Morocco,Taghazout,Morocco,1
+1820,Tangier,Morocco,London,United Kingdom,1
+1821,Tangier,Morocco,Casablanca,Morocco,1
+1822,Tunis,Tunisia,Paris,France,10
+1823,Tunis,Tunisia,London,United Kingdom,5
+1824,Tunis,Tunisia,San Francisco,United States,1
+1825,Tunis,Tunisia,Amsterdam,Netherlands,1
+1826,Tunis,Tunisia,Istanbul,Turkey,1
+1827,Tunis,Tunisia,Dar Es Salaam,Tanzania,1
+1828,Tunis,Tunisia,Athens,Greece,1
+1829,Tunis,Tunisia,Boston,United States,1
+1830,Tunis,Tunisia,Washington,United States,1
+1831,Tunis,Tunisia,Dubai,United Arab Emirates,1
+1832,Gaborone,Botswana,Athens,Greece,1
+1833,Gaborone,Botswana,Harare,Zimbabwe,1
+1834,Gaborone,Botswana,Windhoek,Namibia,1
+1835,Gaborone,Botswana,Vancouver,Canada,1
+1836,Livingstone,Zambia,Hong Kong,Hong Kong,1
+1837,Livingstone,Zambia,Port Elizabeth,South Africa,1
+1838,Livingstone,Zambia,Austin,United States,1
+1839,Agadir,Morocco,Paris,France,3
+1840,Agadir,Morocco,Essaouira,Morocco,2
+1841,Agadir,Morocco,Rabat,Morocco,2
+1842,Agadir,Morocco,Tenerife Canary Islands,Spain,1
+1843,Agadir,Morocco,Porto,Portugal,1
+1844,Agadir,Morocco,Marrakesh,Morocco,1
+1845,Agadir,Morocco,London,United Kingdom,1
+1846,Agadir,Morocco,Taghazout,Morocco,1
+1847,Luanda,Angola,London,United Kingdom,2
+1848,Luanda,Angola,Porto,Portugal,2
+1849,Luanda,Angola,Cape Town,South Africa,1
+1850,Luanda,Angola,Huambo,Angola,1
+1851,Luanda,Angola,Lisbon,Portugal,1
+1852,Casablanca,Morocco,Barcelona,Spain,9
+1853,Casablanca,Morocco,Marrakesh,Morocco,9
+1854,Casablanca,Morocco,Lisbon,Portugal,6
+1855,Casablanca,Morocco,Rabat,Morocco,4
+1856,Casablanca,Morocco,Paris,France,4
+1857,Casablanca,Morocco,Canggu Bali,Indonesia,3
+1858,Casablanca,Morocco,Istanbul,Turkey,3
+1859,Casablanca,Morocco,Essaouira,Morocco,3
+1860,Casablanca,Morocco,Sao Paulo,Brazil,2
+1861,Casablanca,Morocco,London,United Kingdom,2
+1862,Dakar,Senegal,Bangkok,Thailand,2
+1863,Dakar,Senegal,Paris,France,1
+1864,Dakar,Senegal,Istanbul,Turkey,1
+1865,Dakar,Senegal,Marrakesh,Morocco,1
+1866,Dakar,Senegal,Dubai,United Arab Emirates,1
+1867,Dakar,Senegal,Abidjan,Cote Divoire,1
+1868,Dakar,Senegal,Nouakchott,Mauritania,1
+1869,Dakar,Senegal,Lagos,Nigeria,1
+1870,Dakar,Senegal,New Orleans,United States,1
+1871,Dakar,Senegal,New York City,United States,1
+1872,Fes,Morocco,Marrakesh,Morocco,3
+1873,Fes,Morocco,Paris,France,3
+1874,Fes,Morocco,Tangier,Morocco,3
+1875,Fes,Morocco,Casablanca,Morocco,2
+1876,Fes,Morocco,Madrid,Spain,1
+1877,Fes,Morocco,London,United Kingdom,1
+1878,Fes,Morocco,Barcelona,Spain,1
+1879,Fes,Morocco,Dubai,United Arab Emirates,1
+1880,Fes,Morocco,Athens,Greece,1
+1881,Fes,Morocco,Rabat,Morocco,1
+1882,Windhoek,Namibia,Cape Town,South Africa,8
+1883,Windhoek,Namibia,Gaborone,Botswana,2
+1884,Windhoek,Namibia,Stockholm,Sweden,1
+1885,Windhoek,Namibia,Barcelona,Spain,1
+1886,Windhoek,Namibia,Vancouver,Canada,1
+1887,Windhoek,Namibia,Livingstone,Zambia,1
+1888,Windhoek,Namibia,Jeddah,Saudi Arabia,1
+1889,Windhoek,Namibia,New York City,United States,1
+1890,Windhoek,Namibia,Taipei,Taiwan,1
+1891,Windhoek,Namibia,Nairobi,Kenya,1
+1892,Freetown,Sierra Leone,London,United Kingdom,3
+1893,Freetown,Sierra Leone,Hong Kong,Hong Kong,1
+1894,Freetown,Sierra Leone,Shanghai,China,1
+1895,Freetown,Sierra Leone,Beirut,Lebanon,1
+1896,Freetown,Sierra Leone,Singapore,Singapore,1
+1897,Freetown,Sierra Leone,Athens,Greece,1
+1898,Durban,South Africa,Cape Town,South Africa,7
+1899,Durban,South Africa,Johannesburg,South Africa,5
+1900,Durban,South Africa,Seoul,South Korea,4
+1901,Durban,South Africa,Port Elizabeth,South Africa,2
+1902,Durban,South Africa,Calgary,Canada,2
+1903,Durban,South Africa,Paris,France,1
+1904,Durban,South Africa,Berlin,Germany,1
+1905,Durban,South Africa,Nairobi,Kenya,1
+1906,Durban,South Africa,Bangkok,Thailand,1
+1907,Durban,South Africa,Hong Kong,Hong Kong,1
+1908,Essaouira,Morocco,Marrakesh,Morocco,11
+1909,Essaouira,Morocco,Agadir,Morocco,3
+1910,Essaouira,Morocco,London,United Kingdom,2
+1911,Essaouira,Morocco,Barcelona,Spain,2
+1912,Essaouira,Morocco,Taghazout,Morocco,2
+1913,Essaouira,Morocco,Vilnius,Lithuania,1
+1914,Essaouira,Morocco,Amsterdam,Netherlands,1
+1915,Essaouira,Morocco,Los Angeles,United States,1
+1916,Essaouira,Morocco,Hanoi,Vietnam,1
+1917,Essaouira,Morocco,El Jadida,Morocco,1
+1918,Lilongwe,Malawi,London,United Kingdom,1
+1919,Conakry,Guinea,Vancouver,Canada,1
+1920,Banjul,Gambia,Dakar,Senegal,2
+1921,Banjul,Gambia,Doha,Qatar,1
+1922,Antananarivo,Madagascar,London,United Kingdom,1
+1923,Antananarivo,Madagascar,Paris,France,1
+1924,Antananarivo,Madagascar,Nairobi,Kenya,1
+1925,Nairobi,Kenya,London,United Kingdom,6
+1926,Nairobi,Kenya,Amsterdam,Netherlands,5
+1927,Nairobi,Kenya,Dar Es Salaam,Tanzania,4
+1928,Nairobi,Kenya,Cape Town,South Africa,3
+1929,Nairobi,Kenya,Atlanta,United States,2
+1930,Nairobi,Kenya,Madrid,Spain,2
+1931,Nairobi,Kenya,Dubai,United Arab Emirates,2
+1932,Nairobi,Kenya,Vancouver,Canada,2
+1933,Nairobi,Kenya,Boston,United States,1
+1934,Nairobi,Kenya,Santiago,Chile,1
+1935,Lusaka,Zambia,Lilongwe,Malawi,1
+1936,Kumasi,Ghana,Amsterdam,Netherlands,1
+1937,Kumasi,Ghana,El Gouna,Egypt,1
+1938,Rabat,Morocco,Fes,Morocco,6
+1939,Rabat,Morocco,Marrakesh,Morocco,4
+1940,Rabat,Morocco,Casablanca,Morocco,3
+1941,Rabat,Morocco,Berlin,Germany,2
+1942,Rabat,Morocco,Valencia,Spain,2
+1943,Rabat,Morocco,Madrid,Spain,2
+1944,Rabat,Morocco,Barcelona,Spain,2
+1945,Rabat,Morocco,London,United Kingdom,1
+1946,Rabat,Morocco,Dakar,Senegal,1
+1947,Rabat,Morocco,Essaouira,Morocco,1
+1948,Lome,Togo,Lagos,Nigeria,1
+1949,Abidjan,Cote Divoire,Lagos,Nigeria,1
+1950,Algiers,Algeria,Rabat,Morocco,1
+1951,Algiers,Algeria,London,United Kingdom,1
+1952,Algiers,Algeria,Miami,United States,1
+1953,Dar Es Salaam,Tanzania,Nairobi,Kenya,2
+1954,Dar Es Salaam,Tanzania,Dubai,United Arab Emirates,2
+1955,Dar Es Salaam,Tanzania,San Francisco,United States,1
+1956,Dar Es Salaam,Tanzania,Seattle,United States,1
+1957,Dar Es Salaam,Tanzania,San Diego,United States,1
+1958,Dar Es Salaam,Tanzania,Hanoi,Vietnam,1
+1959,Dar Es Salaam,Tanzania,Johannesburg,South Africa,1
+1960,Dar Es Salaam,Tanzania,Barcelona,Spain,1
+1961,Dar Es Salaam,Tanzania,Cape Town,South Africa,1
+1962,Dar Es Salaam,Tanzania,Chiang Mai,Thailand,1
+1963,Addis Ababa,Ethiopia,Nairobi,Kenya,3
+1964,Addis Ababa,Ethiopia,Cape Town,South Africa,3
+1965,Addis Ababa,Ethiopia,Cairo,Egypt,1
+1966,Addis Ababa,Ethiopia,Doha,Qatar,1
+1967,Addis Ababa,Ethiopia,Bangkok,Thailand,1
+1968,Addis Ababa,Ethiopia,Chiang Mai,Thailand,1
+1969,Addis Ababa,Ethiopia,Dubai,United Arab Emirates,1
+1970,Addis Ababa,Ethiopia,New York City,United States,1
+1971,Addis Ababa,Ethiopia,Tel Aviv,Israel,1
+1972,Addis Ababa,Ethiopia,London,United Kingdom,1
+1973,Tripoli,Libya,Prague,Czechia,1
+1974,Kinshasa,Dr Congo,Los Angeles,United States,2
+1975,Sydney,Australia,Melbourne,Australia,83
+1976,Sydney,Australia,Auckland,New Zealand,35
+1977,Sydney,Australia,Singapore,Singapore,28
+1978,Sydney,Australia,Brisbane,Australia,25
+1979,Sydney,Australia,Tokyo,Japan,19
+1980,Sydney,Australia,London,United Kingdom,19
+1981,Sydney,Australia,Bangkok,Thailand,17
+1982,Sydney,Australia,Canggu Bali,Indonesia,16
+1983,Sydney,Australia,Los Angeles,United States,14
+1984,Sydney,Australia,San Francisco,United States,13
+1985,Melbourne,Australia,Sydney,Australia,83
+1986,Melbourne,Australia,Perth,Australia,24
+1987,Melbourne,Australia,Canggu Bali,Indonesia,19
+1988,Melbourne,Australia,Auckland,New Zealand,19
+1989,Melbourne,Australia,Brisbane,Australia,18
+1990,Melbourne,Australia,Adelaide,Australia,17
+1991,Melbourne,Australia,Singapore,Singapore,14
+1992,Melbourne,Australia,Bangkok,Thailand,12
+1993,Melbourne,Australia,Chiang Mai,Thailand,12
+1994,Melbourne,Australia,Ubud Bali,Indonesia,11
+1995,Honolulu,United States,Los Angeles,United States,17
+1996,Honolulu,United States,San Francisco,United States,15
+1997,Honolulu,United States,San Diego,United States,9
+1998,Honolulu,United States,New York City,United States,8
+1999,Honolulu,United States,Kauai,United States,7
+2000,Honolulu,United States,Vancouver,Canada,6
+2001,Honolulu,United States,Seattle,United States,5
+2002,Honolulu,United States,Bangkok,Thailand,5
+2003,Honolulu,United States,Tokyo,Japan,5
+2004,Honolulu,United States,Seoul,South Korea,3
+2005,Wellington,New Zealand,Auckland,New Zealand,25
+2006,Wellington,New Zealand,Christchurch,New Zealand,13
+2007,Wellington,New Zealand,Sydney,Australia,7
+2008,Wellington,New Zealand,Melbourne,Australia,6
+2009,Wellington,New Zealand,London,United Kingdom,5
+2010,Wellington,New Zealand,Queenstown,New Zealand,4
+2011,Wellington,New Zealand,Tokyo,Japan,4
+2012,Wellington,New Zealand,San Francisco,United States,3
+2013,Wellington,New Zealand,New York City,United States,3
+2014,Wellington,New Zealand,Bangkok,Thailand,2
+2015,Auckland,New Zealand,Wellington,New Zealand,29
+2016,Auckland,New Zealand,Sydney,Australia,25
+2017,Auckland,New Zealand,Melbourne,Australia,17
+2018,Auckland,New Zealand,Christchurch,New Zealand,15
+2019,Auckland,New Zealand,Queenstown,New Zealand,11
+2020,Auckland,New Zealand,Singapore,Singapore,10
+2021,Auckland,New Zealand,London,United Kingdom,8
+2022,Auckland,New Zealand,Los Angeles,United States,8
+2023,Auckland,New Zealand,Kuala Lumpur,Malaysia,6
+2024,Auckland,New Zealand,San Francisco,United States,6
+2025,Queenstown,New Zealand,Auckland,New Zealand,11
+2026,Queenstown,New Zealand,Sydney,Australia,10
+2027,Queenstown,New Zealand,Wanaka,New Zealand,8
+2028,Queenstown,New Zealand,Wellington,New Zealand,8
+2029,Queenstown,New Zealand,Melbourne,Australia,5
+2030,Queenstown,New Zealand,Dunedin,New Zealand,4
+2031,Queenstown,New Zealand,Christchurch,New Zealand,4
+2032,Queenstown,New Zealand,Canggu Bali,Indonesia,3
+2033,Queenstown,New Zealand,Tokyo,Japan,2
+2034,Queenstown,New Zealand,Shanghai,China,1
+2035,Hilo,United States,Los Angeles,United States,3
+2036,Hilo,United States,Honolulu,United States,3
+2037,Hilo,United States,Kauai,United States,2
+2038,Hilo,United States,Taipei,Taiwan,1
+2039,Hilo,United States,Berlin,Germany,1
+2040,Hilo,United States,San Diego,United States,1
+2041,Hilo,United States,Chicago,United States,1
+2042,Hilo,United States,Seoul,South Korea,1
+2043,Suva,Fiji,Auckland,New Zealand,3
+2044,Suva,Fiji,Cairns,Australia,1
+2045,Suva,Fiji,Los Angeles,United States,1
+2046,Suva,Fiji,Canggu Bali,Indonesia,1
+2047,Suva,Fiji,Perth,Australia,1
+2048,Suva,Fiji,Port Louis,Mauritius,1
+2049,Perth,Australia,Sydney,Australia,20
+2050,Perth,Australia,Melbourne,Australia,18
+2051,Perth,Australia,Singapore,Singapore,16
+2052,Perth,Australia,Ubud Bali,Indonesia,13
+2053,Perth,Australia,Gold Coast,Australia,8
+2054,Perth,Australia,Canggu Bali,Indonesia,8
+2055,Perth,Australia,Brisbane,Australia,6
+2056,Perth,Australia,Tokyo,Japan,6
+2057,Perth,Australia,Auckland,New Zealand,4
+2058,Perth,Australia,Adelaide,Australia,4
+2059,Christchurch,New Zealand,Queenstown,New Zealand,17
+2060,Christchurch,New Zealand,Auckland,New Zealand,9
+2061,Christchurch,New Zealand,Melbourne,Australia,8
+2062,Christchurch,New Zealand,Sydney,Australia,8
+2063,Christchurch,New Zealand,Dunedin,New Zealand,5
+2064,Christchurch,New Zealand,Wellington,New Zealand,3
+2065,Christchurch,New Zealand,Chiang Mai,Thailand,2
+2066,Christchurch,New Zealand,Paris,France,2
+2067,Christchurch,New Zealand,Singapore,Singapore,2
+2068,Christchurch,New Zealand,Hong Kong,Hong Kong,2
+2069,Cairns,Australia,Sydney,Australia,12
+2070,Cairns,Australia,Melbourne,Australia,5
+2071,Cairns,Australia,Brisbane,Australia,5
+2072,Cairns,Australia,Christchurch,New Zealand,2
+2073,Cairns,Australia,Bangkok,Thailand,2
+2074,Cairns,Australia,Tokyo,Japan,2
+2075,Cairns,Australia,Ubud Bali,Indonesia,2
+2076,Cairns,Australia,Darwin,Australia,2
+2077,Cairns,Australia,Singapore,Singapore,1
+2078,Cairns,Australia,Cebu,Philippines,1
+2079,Adelaide,Australia,Melbourne,Australia,12
+2080,Adelaide,Australia,Sydney,Australia,10
+2081,Adelaide,Australia,Hong Kong,Hong Kong,5
+2082,Adelaide,Australia,Brisbane,Australia,5
+2083,Adelaide,Australia,Singapore,Singapore,4
+2084,Adelaide,Australia,Perth,Australia,3
+2085,Adelaide,Australia,Cairns,Australia,3
+2086,Adelaide,Australia,Auckland,New Zealand,2
+2087,Adelaide,Australia,Bangkok,Thailand,2
+2088,Adelaide,Australia,Gold Coast,Australia,2
+2089,Brisbane,Australia,Sydney,Australia,31
+2090,Brisbane,Australia,Melbourne,Australia,15
+2091,Brisbane,Australia,Auckland,New Zealand,13
+2092,Brisbane,Australia,Gold Coast,Australia,11
+2093,Brisbane,Australia,Byron Bay,Australia,6
+2094,Brisbane,Australia,Taipei,Taiwan,5
+2095,Brisbane,Australia,Perth,Australia,5
+2096,Brisbane,Australia,Cairns,Australia,5
+2097,Brisbane,Australia,Canggu Bali,Indonesia,4
+2098,Brisbane,Australia,Los Angeles,United States,4
+2099,Nukualofa,Tonga,Canberra,Australia,1
+2100,Hobart,Australia,Melbourne,Australia,10
+2101,Hobart,Australia,Sydney,Australia,10
+2102,Hobart,Australia,London,United Kingdom,1
+2103,Hobart,Australia,Kuala Lumpur,Malaysia,1
+2104,Hobart,Australia,Kuching,Malaysia,1
+2105,Hobart,Australia,Auckland,New Zealand,1
+2106,Hobart,Australia,Singapore,Singapore,1
+2107,Hobart,Australia,Hong Kong,Hong Kong,1
+2108,Wollongong,Australia,Sydney,Australia,1
+2109,Apia,Samoa,Dunedin,New Zealand,1
+2110,Hagatna,Guam,Tokyo,Japan,1
+2111,Hagatna,Guam,Seoul,South Korea,1
+2112,Hagatna,Guam,Bangkok,Thailand,1
+2113,Dededo,Guam,Hilo,United States,1
+2114,Byron Bay,Australia,Brisbane,Australia,5
+2115,Byron Bay,Australia,Melbourne,Australia,5
+2116,Byron Bay,Australia,Sydney,Australia,5
+2117,Byron Bay,Australia,Gold Coast,Australia,5
+2118,Byron Bay,Australia,Canggu Bali,Indonesia,2
+2119,Byron Bay,Australia,Ubud Bali,Indonesia,2
+2120,Byron Bay,Australia,Wanaka,New Zealand,1
+2121,Byron Bay,Australia,Hong Kong,Hong Kong,1
+2122,Byron Bay,Australia,Austin,United States,1
+2123,Byron Bay,Australia,Cairns,Australia,1
+2124,Gold Coast,Australia,Sydney,Australia,11
+2125,Gold Coast,Australia,Brisbane,Australia,11
+2126,Gold Coast,Australia,Perth,Australia,8
+2127,Gold Coast,Australia,Tokyo,Japan,6
+2128,Gold Coast,Australia,Melbourne,Australia,4
+2129,Gold Coast,Australia,Bangkok,Thailand,4
+2130,Gold Coast,Australia,Cairns,Australia,3
+2131,Gold Coast,Australia,Singapore,Singapore,3
+2132,Gold Coast,Australia,Canggu Bali,Indonesia,2
+2133,Gold Coast,Australia,Auckland,New Zealand,2
+2134,Dunedin,New Zealand,Christchurch,New Zealand,4
+2135,Dunedin,New Zealand,Auckland,New Zealand,3
+2136,Dunedin,New Zealand,Queenstown,New Zealand,3
+2137,Dunedin,New Zealand,Wellington,New Zealand,2
+2138,Dunedin,New Zealand,Apia,Samoa,1
+2139,Dunedin,New Zealand,Chiang Mai,Thailand,1
+2140,Dunedin,New Zealand,Sydney,Australia,1
+2141,Dunedin,New Zealand,Antalya,Turkey,1
+2142,Dunedin,New Zealand,Wanaka,New Zealand,1
+2143,Canberra,Australia,Sydney,Australia,8
+2144,Canberra,Australia,Melbourne,Australia,5
+2145,Canberra,Australia,Perth,Australia,1
+2146,Canberra,Australia,Cancun,Mexico,1
+2147,Canberra,Australia,Cairns,Australia,1
+2148,Canberra,Australia,Nukualofa,Tonga,1
+2149,Canberra,Australia,London,United Kingdom,1
+2150,Canberra,Australia,Amsterdam,Netherlands,1
+2151,Darwin,Australia,Singapore,Singapore,4
+2152,Darwin,Australia,Perth,Australia,4
+2153,Darwin,Australia,Sydney,Australia,3
+2154,Darwin,Australia,Adelaide,Australia,1
+2155,Darwin,Australia,Taipei,Taiwan,1
+2156,Darwin,Australia,Los Angeles,United States,1
+2157,Darwin,Australia,Austin,United States,1
+2158,Darwin,Australia,Ubud Bali,Indonesia,1
+2159,Darwin,Australia,Seminyak Bali,Indonesia,1
+2160,Darwin,Australia,Brisbane,Australia,1
+2161,Kauai,United States,Honolulu,United States,3
+2162,Kauai,United States,San Francisco,United States,2
+2163,Kauai,United States,Seattle,United States,1
+2164,Kauai,United States,Gold Coast,Australia,1
+2165,Kauai,United States,Cabo San Lucas,Mexico,1
+2166,Kauai,United States,New York City,United States,1
+2167,Kauai,United States,London,United Kingdom,1
+2168,Kauai,United States,San Diego,United States,1
+2169,Kauai,United States,Chicago,United States,1
+2170,Honiara,Solomon Islands,Brisbane,Australia,1
+2171,Wanaka,New Zealand,Queenstown,New Zealand,9
+2172,Wanaka,New Zealand,Sydney,Australia,3
+2173,Wanaka,New Zealand,Auckland,New Zealand,2
+2174,Wanaka,New Zealand,Christchurch,New Zealand,1
+2175,Wanaka,New Zealand,Kuala Lumpur,Malaysia,1
+2176,Port Vila,Vanuatu,Amman,Jordan,1
+2177,Port Moresby,Papua New Guinea,Brisbane,Australia,2
+2178,Port Moresby,Papua New Guinea,Canggu Bali,Indonesia,1
+2179,Port Moresby,Papua New Guinea,Ubud Bali,Indonesia,1
+2180,Port Moresby,Papua New Guinea,Jeju Island,South Korea,1
+2181,Avarua,Cook Islands,Brisbane,Australia,1
+2182,Avarua,Cook Islands,Wellington,New Zealand,1
+2183,Avarua,Cook Islands,Berlin,Germany,1
+2184,Avarua,Cook Islands,Auckland,New Zealand,1
+2185,Noumea,New Caledonia,Sydney,Australia,2
+2186,Noumea,New Caledonia,Melbourne,Australia,2
+2187,Noumea,New Caledonia,Tokyo,Japan,1
+2188,Beirut,Lebanon,Dubai,United Arab Emirates,4
+2189,Beirut,Lebanon,Amman,Jordan,4
+2190,Beirut,Lebanon,London,United Kingdom,3
+2191,Beirut,Lebanon,Riyadh,Saudi Arabia,3
+2192,Beirut,Lebanon,Istanbul,Turkey,3
+2193,Beirut,Lebanon,Johannesburg,South Africa,3
+2194,Beirut,Lebanon,Sydney,Australia,2
+2195,Beirut,Lebanon,Los Angeles,United States,2
+2196,Beirut,Lebanon,Berlin,Germany,2
+2197,Beirut,Lebanon,Abu Dhabi,United Arab Emirates,1
+2198,Dubai,United Arab Emirates,London,United Kingdom,29
+2199,Dubai,United Arab Emirates,Bangkok,Thailand,17
+2200,Dubai,United Arab Emirates,Manama,Bahrain,14
+2201,Dubai,United Arab Emirates,Abu Dhabi,United Arab Emirates,14
+2202,Dubai,United Arab Emirates,Athens,Greece,14
+2203,Dubai,United Arab Emirates,New York City,United States,13
+2204,Dubai,United Arab Emirates,Singapore,Singapore,13
+2205,Dubai,United Arab Emirates,Amsterdam,Netherlands,13
+2206,Dubai,United Arab Emirates,Cape Town,South Africa,12
+2207,Dubai,United Arab Emirates,Saint Petersburg,Russia,11
+2208,Manama,Bahrain,Dubai,United Arab Emirates,15
+2209,Manama,Bahrain,Doha,Qatar,2
+2210,Manama,Bahrain,Abu Dhabi,United Arab Emirates,1
+2211,Manama,Bahrain,Riyadh,Saudi Arabia,1
+2212,Manama,Bahrain,Athens,Greece,1
+2213,Manama,Bahrain,Mumbai,India,1
+2214,Manama,Bahrain,Amsterdam,Netherlands,1
+2215,Manama,Bahrain,London,United Kingdom,1
+2216,Manama,Bahrain,Muscat,Oman,1
+2217,El Gouna,Egypt,Cologne,Germany,5
+2218,El Gouna,Egypt,Luxor,Egypt,4
+2219,El Gouna,Egypt,Chiang Mai,Thailand,2
+2220,El Gouna,Egypt,Las Vegas,United States,2
+2221,El Gouna,Egypt,Istanbul,Turkey,2
+2222,El Gouna,Egypt,Bangkok,Thailand,1
+2223,El Gouna,Egypt,Barcelona,Spain,1
+2224,El Gouna,Egypt,Toronto,Canada,1
+2225,El Gouna,Egypt,Singapore,Singapore,1
+2226,El Gouna,Egypt,Stockholm,Sweden,1
+2227,Amman,Jordan,Dubai,United Arab Emirates,4
+2228,Amman,Jordan,Jerusalem,Israel,4
+2229,Amman,Jordan,Tel Aviv,Israel,3
+2230,Amman,Jordan,Istanbul,Turkey,3
+2231,Amman,Jordan,Athens,Greece,2
+2232,Amman,Jordan,Dammam,Saudi Arabia,2
+2233,Amman,Jordan,Cairo,Egypt,2
+2234,Amman,Jordan,Doha,Qatar,2
+2235,Amman,Jordan,Portland,United States,1
+2236,Amman,Jordan,Jeddah,Saudi Arabia,1
+2237,Luxor,Egypt,Cairo,Egypt,4
+2238,Luxor,Egypt,El Gouna,Egypt,2
+2239,Luxor,Egypt,Madrid,Spain,1
+2240,Luxor,Egypt,Johannesburg,South Africa,1
+2241,Luxor,Egypt,Mysore,India,1
+2242,Luxor,Egypt,Giza,Egypt,1
+2243,Luxor,Egypt,Amman,Jordan,1
+2244,Luxor,Egypt,Moscow,Russia,1
+2245,Doha,Qatar,Bangkok,Thailand,10
+2246,Doha,Qatar,Chiang Mai,Thailand,6
+2247,Doha,Qatar,New York City,United States,4
+2248,Doha,Qatar,Singapore,Singapore,4
+2249,Doha,Qatar,London,United Kingdom,4
+2250,Doha,Qatar,Budapest,Hungary,3
+2251,Doha,Qatar,Istanbul,Turkey,2
+2252,Doha,Qatar,Hong Kong,Hong Kong,2
+2253,Doha,Qatar,Kuwait City,Kuwait,2
+2254,Doha,Qatar,Toronto,Canada,2
+2255,Tel Aviv,Israel,Jerusalem,Israel,24
+2256,Tel Aviv,Israel,London,United Kingdom,18
+2257,Tel Aviv,Israel,New York City,United States,14
+2258,Tel Aviv,Israel,Budapest,Hungary,11
+2259,Tel Aviv,Israel,Belgrade,Serbia,11
+2260,Tel Aviv,Israel,Kyiv,Ukraine,9
+2261,Tel Aviv,Israel,Moscow,Russia,9
+2262,Tel Aviv,Israel,Barcelona,Spain,9
+2263,Tel Aviv,Israel,Prague,Czechia,7
+2264,Tel Aviv,Israel,Sofia,Bulgaria,7
+2265,Sharjah,United Arab Emirates,Moscow,Russia,2
+2266,Sharjah,United Arab Emirates,Abu Dhabi,United Arab Emirates,1
+2267,Sharjah,United Arab Emirates,Dubai,United Arab Emirates,1
+2268,Sharjah,United Arab Emirates,Istanbul,Turkey,1
+2269,Cairo,Egypt,Dahab,Egypt,8
+2270,Cairo,Egypt,Dubai,United Arab Emirates,8
+2271,Cairo,Egypt,Amman,Jordan,7
+2272,Cairo,Egypt,London,United Kingdom,6
+2273,Cairo,Egypt,Alexandria,Egypt,5
+2274,Cairo,Egypt,Istanbul,Turkey,5
+2275,Cairo,Egypt,Luxor,Egypt,4
+2276,Cairo,Egypt,Cape Town,South Africa,2
+2277,Cairo,Egypt,Giza,Egypt,2
+2278,Cairo,Egypt,El Gouna,Egypt,2
+2279,Dahab,Egypt,Cairo,Egypt,4
+2280,Dahab,Egypt,Dubai,United Arab Emirates,3
+2281,Dahab,Egypt,Sofia,Bulgaria,3
+2282,Dahab,Egypt,Jerusalem,Israel,3
+2283,Dahab,Egypt,Nairobi,Kenya,2
+2284,Dahab,Egypt,Istanbul,Turkey,2
+2285,Dahab,Egypt,Tbilisi,Georgia,1
+2286,Dahab,Egypt,Athens,Greece,1
+2287,Dahab,Egypt,Medellin,Colombia,1
+2288,Dahab,Egypt,Johannesburg,South Africa,1
+2289,Alexandria,Egypt,Cairo,Egypt,5
+2290,Alexandria,Egypt,Istanbul,Turkey,1
+2291,Alexandria,Egypt,Paris,France,1
+2292,Alexandria,Egypt,Luxor,Egypt,1
+2293,Erbil,Kurdistan,Tokyo,Japan,1
+2294,Erbil,Kurdistan,Kuwait City,Kuwait,1
+2295,Abu Dhabi,United Arab Emirates,Dubai,United Arab Emirates,10
+2296,Abu Dhabi,United Arab Emirates,Bangkok,Thailand,8
+2297,Abu Dhabi,United Arab Emirates,London,United Kingdom,5
+2298,Abu Dhabi,United Arab Emirates,Istanbul,Turkey,4
+2299,Abu Dhabi,United Arab Emirates,Kuala Lumpur,Malaysia,3
+2300,Abu Dhabi,United Arab Emirates,Phuket,Thailand,3
+2301,Abu Dhabi,United Arab Emirates,Singapore,Singapore,3
+2302,Abu Dhabi,United Arab Emirates,Tokyo,Japan,2
+2303,Abu Dhabi,United Arab Emirates,Hanoi,Vietnam,1
+2304,Abu Dhabi,United Arab Emirates,Amsterdam,Netherlands,1
+2305,Tehran,Iran,Bangkok,Thailand,3
+2306,Tehran,Iran,London,United Kingdom,1
+2307,Tehran,Iran,Wroclaw,Poland,1
+2308,Tehran,Iran,Tbilisi,Georgia,1
+2309,Tehran,Iran,Canggu Bali,Indonesia,1
+2310,Tehran,Iran,Kyiv,Ukraine,1
+2311,Shiraz,Iran,Tehran,Iran,1
+2312,Shiraz,Iran,Isfahan,Iran,1
+2313,Dammam,Saudi Arabia,Chiang Mai,Thailand,2
+2314,Dammam,Saudi Arabia,Amman,Jordan,2
+2315,Dammam,Saudi Arabia,Riyadh,Saudi Arabia,2
+2316,Dammam,Saudi Arabia,Tokyo,Japan,1
+2317,Dammam,Saudi Arabia,Dubai,United Arab Emirates,1
+2318,Dammam,Saudi Arabia,Istanbul,Turkey,1
+2319,Muscat,Oman,Dubai,United Arab Emirates,6
+2320,Muscat,Oman,London,United Kingdom,2
+2321,Muscat,Oman,New York City,United States,1
+2322,Muscat,Oman,Paris,France,1
+2323,Muscat,Oman,Sharjah,United Arab Emirates,1
+2324,Muscat,Oman,Riyadh,Saudi Arabia,1
+2325,Muscat,Oman,Brisbane,Australia,1
+2326,Muscat,Oman,Kuala Lumpur,Malaysia,1
+2327,Muscat,Oman,Sanaa,Yemen,1
+2328,Isfahan,Iran,Shiraz,Iran,2
+2329,Aleppo,Syria,Munich,Germany,1
+2330,Giza,Egypt,Alexandria,Egypt,1
+2331,Giza,Egypt,Belgrade,Serbia,1
+2332,Giza,Egypt,Luxor,Egypt,1
+2333,Riyadh,Saudi Arabia,Dubai,United Arab Emirates,11
+2334,Riyadh,Saudi Arabia,Jeddah,Saudi Arabia,9
+2335,Riyadh,Saudi Arabia,Beirut,Lebanon,7
+2336,Riyadh,Saudi Arabia,London,United Kingdom,4
+2337,Riyadh,Saudi Arabia,Ubud Bali,Indonesia,1
+2338,Riyadh,Saudi Arabia,Dammam,Saudi Arabia,1
+2339,Riyadh,Saudi Arabia,Manila,Philippines,1
+2340,Riyadh,Saudi Arabia,Madrid,Spain,1
+2341,Riyadh,Saudi Arabia,Cairo,Egypt,1
+2342,Riyadh,Saudi Arabia,Istanbul,Turkey,1
+2343,Sanaa,Yemen,Erbil,Kurdistan,1
+2344,Sanaa,Yemen,Port Moresby,Papua New Guinea,1
+2345,Sanaa,Yemen,Cairo,Egypt,1
+2346,Haifa,Israel,Tel Aviv,Israel,8
+2347,Haifa,Israel,Jerusalem,Israel,2
+2348,Jeddah,Saudi Arabia,Riyadh,Saudi Arabia,10
+2349,Jeddah,Saudi Arabia,Dubai,United Arab Emirates,2
+2350,Jeddah,Saudi Arabia,Dammam,Saudi Arabia,1
+2351,Jeddah,Saudi Arabia,Vancouver,Canada,1
+2352,Jeddah,Saudi Arabia,Orlando,United States,1
+2353,Jeddah,Saudi Arabia,Kuala Lumpur,Malaysia,1
+2354,Jeddah,Saudi Arabia,Bangkok,Thailand,1
+2355,Jeddah,Saudi Arabia,Medina,Saudi Arabia,1
+2356,Jeddah,Saudi Arabia,Makati,Philippines,1
+2357,Jeddah,Saudi Arabia,Beirut,Lebanon,1
+2358,Medina,Saudi Arabia,Mecca,Saudi Arabia,2
+2359,Medina,Saudi Arabia,Cairo,Egypt,1
+2360,Damascus,Syria,Ho Chi Minh City,Vietnam,1
+2361,Damascus,Syria,Dahab,Egypt,1
+2362,Kuwait City,Kuwait,New York City,United States,1
+2363,Kuwait City,Kuwait,Kuala Lumpur,Malaysia,1
+2364,Kuwait City,Kuwait,Istanbul,Turkey,1
+2365,Kuwait City,Kuwait,Shiraz,Iran,1
+2366,Kuwait City,Kuwait,Harare,Zimbabwe,1
+2367,Kuwait City,Kuwait,Moscow,Russia,1
+2368,Kuwait City,Kuwait,Belgrade,Serbia,1
+2369,Kuwait City,Kuwait,Abu Dhabi,United Arab Emirates,1
+2370,Kuwait City,Kuwait,Beirut,Lebanon,1
+2371,Kuwait City,Kuwait,Honolulu,United States,1
+2372,Jerusalem,Israel,Tel Aviv,Israel,17
+2373,Jerusalem,Israel,Haifa,Israel,6
+2374,Jerusalem,Israel,Amsterdam,Netherlands,4
+2375,Jerusalem,Israel,Ramallah,Palestine,3
+2376,Jerusalem,Israel,Amman,Jordan,2
+2377,Jerusalem,Israel,Budapest,Hungary,2
+2378,Jerusalem,Israel,Istanbul,Turkey,2
+2379,Jerusalem,Israel,Los Angeles,United States,2
+2380,Jerusalem,Israel,London,United Kingdom,2
+2381,Jerusalem,Israel,Madrid,Spain,1
+2382,Ahvaz,Iran,Dubai,United Arab Emirates,1
+2383,Baghdad,Iraq,Canggu Bali,Indonesia,1
+2384,Baghdad,Iraq,Prague,Czechia,1
+2385,Basra,Iraq,Istanbul,Turkey,1
+2386,Ramallah,Palestine,Belgrade,Serbia,1
+2387,Ramallah,Palestine,Budapest,Hungary,1
+2388,Ramallah,Palestine,Istanbul,Turkey,1
+2389,Mecca,Saudi Arabia,Jeddah,Saudi Arabia,1
+2390,Mecca,Saudi Arabia,Medina,Saudi Arabia,1
+2391,Mecca,Saudi Arabia,Amsterdam,Netherlands,1
+2392,Mecca,Saudi Arabia,Marrakesh,Morocco,1
+2393,Mecca,Saudi Arabia,Cairo,Egypt,1
